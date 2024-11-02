@@ -1,0 +1,151 @@
+{
+  "sections": {
+    "image_with_text_hMkwW4": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_PETEn6": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Add a tagline"
+          }
+        },
+        "heading_dQ78Ya": {
+          "type": "heading",
+          "settings": {
+            "text": "Contact Us",
+            "heading_size": "h3"
+          }
+        },
+        "text_KHXjMM": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Address: <\/strong>The Somerset Toiletry Co, Upper Bristol Road, Clutton, Bristol, BS39 5TA.<\/p><p><strong>Telephone: <\/strong>(+44) 01761 451122<\/p><p><strong>Email:<\/strong> <a href=\"mailto:sayhello@tstcglobal.com\" title=\"mailto:sayhello@tstcglobal.com\">sayhello@tstcglobal.com<\/a> <\/p><p>For support please email or call our UK-based Sales Admin Team Mon - Fri from 9am - 5pm.<\/p><p>Live Chat available <\/p><p><\/p>",
+            "description_size": "medium"
+          }
+        },
+        "space_TmPan4": {
+          "type": "space",
+          "settings": {
+            "height": 13
+          }
+        }
+      },
+      "block_order": [
+        "subheading_PETEn6",
+        "heading_dQ78Ya",
+        "text_KHXjMM",
+        "space_TmPan4"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1.jpg",
+        "use_video": false,
+        "video": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video_autoplay": true,
+        "video_controls": true,
+        "height": "small",
+        "desktop_image_width": "medium",
+        "section_width": "grid",
+        "layout": "image_first",
+        "content_position": "text-left",
+        "color_bg": "#ffffff",
+        "color_text": "#263349",
+        "color_border": "#e2e2e2",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": true
+      }
+    },
+    "image_with_text_eKyRFT": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_87NTVa": {
+          "type": "heading",
+          "settings": {
+            "text": "Trade Enquires",
+            "heading_size": "h3"
+          }
+        },
+        "text_wNGFDA": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you are interested in stocking products from The Somerset Toiletry Co., please visit our <a href=\"\/pages\/trade-fair\" title=\"Trade Fairs\">wholesale page<\/a> or send an email to the address provided below. <\/p><p><strong>UK: <\/strong><a href=\"mailto:uk@tstcglobal.com\" title=\"mailto:uk@tstcglobal.com\">uk@tstcglobal.com<\/a><\/p><p><strong>Export: <\/strong><a href=\"mailto:export@tstcglobal.com\" title=\"mailto:export@tstcglobal.com\">export@tstcglobal.com<\/a><\/p><p><strong>USA: <\/strong><a href=\"mailto:ucscustomerservice@uppercanadasoap.com\" title=\"mailto:ucscustomerservice@uppercanadasoap.com\">ucscustomerservice@uppercanadasoap.com<\/a><\/p>",
+            "description_size": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "heading_87NTVa",
+        "text_wNGFDA"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/the_somerset_toiletry_co_trade_show_contact_us.jpg",
+        "use_video": false,
+        "video": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video_autoplay": true,
+        "video_controls": true,
+        "height": "small",
+        "desktop_image_width": "medium",
+        "section_width": "grid",
+        "layout": "text_first",
+        "content_position": "text-left",
+        "color_bg": "#ffffff",
+        "color_text": "#263349",
+        "color_border": "#e2e2e2",
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
+      }
+    },
+    "1652268757b7c53383": {
+      "type": "contact-form",
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "description": "",
+        "show_phone_number": true,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": false
+      }
+    },
+    "rich_text_TQR7q9": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_gNtpNp": {
+          "type": "heading",
+          "settings": {
+            "text": "Private Label Enquiries",
+            "size": "h3"
+          }
+        },
+        "text_L6JrUa": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Visit our <a href=\"\/pages\/private-brands\" title=\"Private Brands\">private label<\/a> page or email:  Alex.Whitcombe@tstcglobal.com<\/p>",
+            "custom_liquid": "",
+            "size": "text-size-regular"
+          }
+        }
+      },
+      "block_order": [
+        "heading_gNtpNp",
+        "text_L6JrUa"
+      ],
+      "settings": {
+        "section_width": "grid",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "color_bg": "rgba(0,0,0,0)",
+        "color_text": "#263349",
+        "color_links": "#151515",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    }
+  },
+  "order": [
+    "image_with_text_hMkwW4",
+    "image_with_text_eKyRFT",
+    "1652268757b7c53383",
+    "rich_text_TQR7q9"
+  ]
+}

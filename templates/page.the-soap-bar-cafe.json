@@ -1,0 +1,600 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "show_page_title": false,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
+      }
+    },
+    "promotional_banner_NzcmAc": {
+      "type": "promotional-banner",
+      "blocks": {
+        "heading_bfYJcg": {
+          "type": "heading",
+          "settings": {
+            "text": "The Soap Bar Café",
+            "heading_size": "h1"
+          }
+        },
+        "text_dYD4Me": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Open Mon to Sat 9am – 4pm<\/strong><\/p><p>The Somerset Toiletry Co. HQ is based in Clutton, North Somerset (on the A37 between Bristol & Wells). We'd love you to come visit our busy cafe and gift shop but we recommend you book a table to avoid disappointment. <br\/><br\/><strong>Tel:<\/strong> 01761 450060  <strong>Email:<\/strong> <a href=\"mailto:soapbarcafe@tstcglobal.com\" title=\"mailto:soapbarcafe@tstcglobal.com\">soapbarcafe@tstcglobal.com<\/a><\/p>"
+          }
+        },
+        "button_fWd4JK": {
+          "type": "button",
+          "settings": {
+            "button_text": "View the Menu",
+            "button_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0670\/1167\/4269\/files\/the-soap-bar-cafe-summer-menu-2024.pdf?v=1727942945",
+            "button_outline": true
+          }
+        },
+        "button_zHhTc7": {
+          "type": "button",
+          "settings": {
+            "button_text": "View Kids Menu",
+            "button_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0670\/1167\/4269\/files\/the-soap-bar-cafe-summer-menu-2024.pdf?v=1727942945",
+            "button_outline": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_bfYJcg",
+        "text_dYD4Me",
+        "button_fWd4JK",
+        "button_zHhTc7"
+      ],
+      "settings": {
+        "section_width": "grid",
+        "image": "shopify:\/\/shop_images\/1_ca642ed1-770a-4cc3-a75b-3a8a53898e32.jpg",
+        "image_height": "adapt",
+        "image_width": "split",
+        "frame_border": false,
+        "content_position": "text-left",
+        "split_layout": "image_first",
+        "color_bg": "#ffffff",
+        "color_text": "#31353a",
+        "overlay_color": "rgba(0,0,0,0)",
+        "overlay_opacity": 0,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
+      }
+    },
+    "spacer_tkg679": {
+      "type": "spacer",
+      "settings": {
+        "spacer_mobile": 0,
+        "spacer_desktop": 30,
+        "border_separator": false,
+        "border_separator_full": false
+      }
+    },
+    "rich_text_zEddfC": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_Le4KNk": {
+          "type": "subheading",
+          "settings": {
+            "text": "The Soap Bar Cafe"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_Le4KNk"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_width": "grid",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "color_bg": "#5b4b45",
+        "color_text": "#ffffff",
+        "color_links": "#151515",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "gallery_pkRzEQ": {
+      "type": "gallery",
+      "blocks": {
+        "image_rKT6GF": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Pumpkin_Hand_Cream_12.jpg",
+            "subheading": "",
+            "title": "Local Products",
+            "text": "Our cakes are freshly made onsite and we source as much local ingredients as possible, including Proper Drop cider brewed in the village.",
+            "link_label": "",
+            "link": "",
+            "use_text_button": false,
+            "block_link": "",
+            "product_list": [
+
+            ]
+          }
+        },
+        "image_EdaFrm": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/the-soap-bar-cafe-cream-tea.webp",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "use_text_button": false,
+            "block_link": "",
+            "product_list": [
+
+            ]
+          }
+        },
+        "image_ELeDi4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Pumpkin_Hand_Cream_12.jpg",
+            "subheading": "",
+            "title": "Dietary Requirements",
+            "text": "We have various vegetarian and gluten-free options on the menu, but please let us know if you need something specific.",
+            "link_label": "",
+            "link": "",
+            "use_text_button": false,
+            "block_link": "",
+            "product_list": [
+
+            ]
+          }
+        },
+        "image_DyBjp8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/the-soap-bar-cafe-cake-image.webp",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "use_text_button": false,
+            "block_link": "",
+            "product_list": [
+
+            ]
+          }
+        },
+        "image_N6ktDk": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Pumpkin_Hand_Cream_12.jpg",
+            "subheading": "",
+            "title": "Customer Reviews",
+            "text": "To see for yourself read all our reviews on Tripadvisor.",
+            "link_label": "Read Here",
+            "link": "https:\/\/www.tripadvisor.co.uk\/Restaurant_Review-g186369-d21344849-Reviews-The_Soap_Bar_Cafe_Gift_Shop-Somerset_England.html",
+            "use_text_button": false,
+            "block_link": "",
+            "product_list": [
+
+            ]
+          }
+        },
+        "image_KDdwtA": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/the-soap-bar-cafe-cake-victoria-carrot-cake.webp",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "use_text_button": false,
+            "block_link": "",
+            "product_list": [
+
+            ]
+          }
+        }
+      },
+      "block_order": [
+        "image_rKT6GF",
+        "image_EdaFrm",
+        "image_ELeDi4",
+        "image_DyBjp8",
+        "image_N6ktDk",
+        "image_KDdwtA"
+      ],
+      "settings": {
+        "columns_desktop": 3,
+        "section_width": "full-width-row-full",
+        "mobile_swipe": true,
+        "image_ratio": "square",
+        "content_position": "middle-center",
+        "text_alignment": "center",
+        "column_spacing": "small",
+        "heading_size": "h3",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "image_with_text_qmaVQd": {
+      "type": "image-with-text",
+      "blocks": {
+        "image_nXemeG": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/the-think-tank-logo.svg",
+            "retina": false
+          }
+        },
+        "text_bzMHdP": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Think Tank is a private meeting room available for hire, perfect for meetings or small gatherings as it comfortably seats 10-12 people. <\/p>",
+            "description_size": "medium"
+          }
+        },
+        "button_NikCbC": {
+          "type": "button",
+          "settings": {
+            "button_text": "Call Now To Book",
+            "button_link": "tel:01761450060"
+          }
+        }
+      },
+      "block_order": [
+        "image_nXemeG",
+        "text_bzMHdP",
+        "button_NikCbC"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Pumpkin_Hand_Cream_13.jpg",
+        "use_video": false,
+        "video": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video_autoplay": true,
+        "video_controls": true,
+        "height": "large",
+        "desktop_image_width": "medium",
+        "section_width": "grid",
+        "layout": "image_first",
+        "content_position": "text-center",
+        "color_bg": "#ffffff",
+        "color_text": "#31353a",
+        "color_border": "#e2e2e2",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "gallery_dLyib8": {
+      "type": "gallery",
+      "blocks": {
+        "image_rfpVTg": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Pumpkin_Hand_Cream_14.jpg",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "use_text_button": false,
+            "block_link": "",
+            "product_list": [
+
+            ]
+          }
+        },
+        "image_cHpHnQ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Pumpkin_Hand_Cream_12.jpg",
+            "subheading": "",
+            "title": "GIFT SHOP",
+            "text": "Our gift shop is bursting with scented goodies and gifts for the whole family. Alongside our luxury body care and home fragrance, you’ll find a wide range of cards, jewellery, scarves and even socks!",
+            "link_label": "",
+            "link": "",
+            "use_text_button": false,
+            "block_link": "",
+            "product_list": [
+
+            ]
+          }
+        },
+        "image_mhmknj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Pumpkin_Hand_Cream_15.jpg",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "",
+            "use_text_button": false,
+            "block_link": "",
+            "product_list": [
+
+            ]
+          }
+        }
+      },
+      "block_order": [
+        "image_rfpVTg",
+        "image_cHpHnQ",
+        "image_mhmknj"
+      ],
+      "settings": {
+        "columns_desktop": 3,
+        "section_width": "grid",
+        "mobile_swipe": true,
+        "image_ratio": "adapt",
+        "content_position": "middle-center",
+        "text_alignment": "center",
+        "column_spacing": "medium",
+        "heading_size": "h2",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": true
+      }
+    },
+    "image_with_text_VNABD9": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_pFT33a": {
+          "type": "heading",
+          "settings": {
+            "text": "24\/7 Self-Service Laundrette",
+            "heading_size": "h4"
+          }
+        },
+        "text_CVGRp9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Professional quality, large capacity, washing & drying machines (18kg) with an integrated smart-dosing detergent system.<\/p><ul><li>Machines are locked during wash cycle.<\/li><li>Washing takes an average of 30 mins & drying takes 15 mins or more.<\/li><li>Receive a free SMS alert 5 minutes before the end of the wash cycle.<\/li><li>Accessible to users with reduced mobility.<\/li><li>Variety of secure payment options & loyalty scheme. <\/li><\/ul><p>Join us for a coffee and lunch whilst waiting for your washing!<\/p>",
+            "description_size": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "heading_pFT33a",
+        "text_CVGRp9"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/the-soap-bar-cafe-launderette.jpg",
+        "use_video": false,
+        "video": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video_autoplay": true,
+        "video_controls": true,
+        "height": "large",
+        "desktop_image_width": "medium",
+        "section_width": "grid",
+        "layout": "image_first",
+        "content_position": "text-left",
+        "color_bg": "#ffffff",
+        "color_text": "#31353a",
+        "color_border": "#e2e2e2",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": true
+      }
+    },
+    "rich_text_dgy4NR": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_inFp6j": {
+          "type": "heading",
+          "settings": {
+            "text": "Where to find us",
+            "size": "h3"
+          }
+        },
+        "text_96cbpw": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "custom_liquid": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d3031.691058536217!2d-2.550677087314231!3d51.33194727165625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487189aaa9bbecd1%3A0x17bf0c2b832fc0c7!2sThe%20Soap%20Bar%20Caf%C3%A9!5e1!3m2!1sen!2suk!4v1727945576016!5m2!1sen!2suk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
+            "size": "text-size-small"
+          }
+        }
+      },
+      "block_order": [
+        "heading_inFp6j",
+        "text_96cbpw"
+      ],
+      "settings": {
+        "section_width": "grid",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "center",
+        "color_bg": "#ffffff",
+        "color_text": "#31353a",
+        "color_links": "#151515",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "1729595812079b2d04": {
+      "type": "apps",
+      "blocks": {
+        "klaviyo_email_marketing_sms_form_embed_block_hj6E3A": {
+          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": "VvCwxd"
+          }
+        }
+      },
+      "block_order": [
+        "klaviyo_email_marketing_sms_form_embed_block_hj6E3A"
+      ],
+      "settings": {
+      }
+    },
+    "email_signup_Rw7QK9": {
+      "type": "email-signup",
+      "disabled": true,
+      "settings": {
+        "heading": "Soap Bar Cafe Newsletter",
+        "description": "<p>Sign up for the latest mouth watering offers and news from our Café and gift store.<\/p>",
+        "color_bg": "#666666",
+        "color_text": "#ffffff",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "scrolling_text_wVVCga": {
+      "type": "scrolling-text",
+      "blocks": {
+        "text_HLyKfP": {
+          "type": "text",
+          "settings": {
+            "text": "Free Parking",
+            "link": "",
+            "outline_text": true
+          }
+        },
+        "text_UqiDgR": {
+          "type": "text",
+          "settings": {
+            "text": "Wheelchair Access",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "text_ejeeqP": {
+          "type": "text",
+          "settings": {
+            "text": "Dog Friendly",
+            "link": "",
+            "outline_text": true
+          }
+        },
+        "text_jwdL9Q": {
+          "type": "text",
+          "settings": {
+            "text": "Free WIFI",
+            "link": "",
+            "outline_text": false
+          }
+        }
+      },
+      "block_order": [
+        "text_HLyKfP",
+        "text_UqiDgR",
+        "text_ejeeqP",
+        "text_jwdL9Q"
+      ],
+      "settings": {
+        "height": "height-300",
+        "full_width": true,
+        "direction": "left",
+        "speed": "30s",
+        "text_size": 50,
+        "text_uppercase": false,
+        "image_size": "large",
+        "color_bg": "#f5f3ef",
+        "color_text": "#151515",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
+      }
+    },
+    "rich_text_ERE8fa": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_djpfyx": {
+          "type": "heading",
+          "settings": {
+            "text": "Stay up to date!",
+            "size": "h3"
+          }
+        },
+        "text_98HErG": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you'd like to keep up to date with what we're doing here in Clutton, please follow us!<\/p>",
+            "custom_liquid": "",
+            "size": "text-size-regular"
+          }
+        },
+        "button_4m7L39": {
+          "type": "button",
+          "settings": {
+            "link_label": "Instagram",
+            "link": "https:\/\/www.instagram.com\/soapbarcafe\/",
+            "button_outline": false
+          }
+        },
+        "button_TFkdAr": {
+          "type": "button",
+          "settings": {
+            "link_label": "Facebook",
+            "link": "https:\/\/www.facebook.com\/soapbarcafe\/",
+            "button_outline": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_djpfyx",
+        "text_98HErG",
+        "button_4m7L39",
+        "button_TFkdAr"
+      ],
+      "settings": {
+        "section_width": "grid",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "color_bg": "rgba(0,0,0,0)",
+        "color_text": "#31353a",
+        "color_links": "#151515",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "rich_text_7PKFrw": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_nCbUEh": {
+          "type": "subheading",
+          "settings": {
+            "text": "Sign up to Stay up to Date!"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_nCbUEh"
+      ],
+      "settings": {
+        "section_width": "grid",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "color_bg": "transparent",
+        "color_text": "#151515",
+        "color_links": "#151515",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "promotional_banner_NzcmAc",
+    "spacer_tkg679",
+    "rich_text_zEddfC",
+    "gallery_pkRzEQ",
+    "image_with_text_qmaVQd",
+    "gallery_dLyib8",
+    "image_with_text_VNABD9",
+    "rich_text_dgy4NR",
+    "rich_text_7PKFrw",
+    "1729595812079b2d04",
+    "email_signup_Rw7QK9",
+    "scrolling_text_wVVCga",
+    "rich_text_ERE8fa"
+  ]
+}

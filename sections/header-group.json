@@ -1,0 +1,92 @@
+{
+  "type": "header",
+  "name": "Header group",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "2f7893ee-7b84-4f15-911a-801b94ffa38e": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "text": "UK Only - Free Shipping >£35",
+            "link": ""
+          }
+        },
+        "5b1ab378-833d-4a94-a02e-8325ec1551d0": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "text": "Family Business Est. 1999",
+            "link": "shopify:\/\/pages\/shipping-and-returns"
+          }
+        },
+        "text_X6jjdX": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "text": ">50k UK Orders Shipped",
+            "link": ""
+          }
+        },
+        "text_figCYe": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "text": "5* Customer service",
+            "link": ""
+          }
+        },
+        "text_m6jTmV": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "text": "Sign up for 10% Off first order*",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "2f7893ee-7b84-4f15-911a-801b94ffa38e",
+        "5b1ab378-833d-4a94-a02e-8325ec1551d0",
+        "text_X6jjdX",
+        "text_figCYe",
+        "text_m6jTmV"
+      ],
+      "settings": {
+        "announcement_bar": true,
+        "announcement_bar_homepage_only": false,
+        "announcement_bar_layout": "carousel",
+        "direction": "left",
+        "speed": "20s",
+        "autoplay": true,
+        "autoplay_length": 3
+      }
+    },
+    "header": {
+      "type": "header",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "sticky_header": true,
+        "logo_height_range": 34,
+        "logo_height_range_mobile": 30,
+        "style": "style1",
+        "header_shadow": "header--shadow-medium",
+        "menu": "main-menu",
+        "transparent_header": true,
+        "show_language_switcher": false,
+        "show_currency_switcher": false,
+        "mobile_secondary_menu": "",
+        "mobile_promo_heading": "Promotion heading",
+        "mobile_promo_link_label": "Shop",
+        "mobile_promo_link": ""
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}

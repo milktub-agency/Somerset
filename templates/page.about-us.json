@@ -1,0 +1,418 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": true,
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "image_with_text_Qr7bWe": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_hpYzYF": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_EjqrGT": {
+          "type": "heading",
+          "settings": {
+            "text": "About us",
+            "heading_size": "h2"
+          }
+        },
+        "text_c4WL6B": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We founded the company in 1999, with a simple goal: to create beautiful and honestly priced luxurious toiletries. Roger, with his expertise in entrepreneurship, and I, with my passion for aromatherapy, saw an opportunity to bring something special to the industry. Initial success from producing body care for other companies quickly grew and evolved. So in 2010, we launched our own brands, and today, our products are sold and cherished in over 50 countries.<\/p>",
+            "description_size": "medium"
+          }
+        },
+        "button_UJGwDL": {
+          "type": "button",
+          "settings": {
+            "button_text": "Watch More",
+            "button_link": "https:\/\/youtu.be\/fZVPCOUDSEY?si=ZHVha39QKor0WiM-"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_hpYzYF",
+        "heading_EjqrGT",
+        "text_c4WL6B",
+        "button_UJGwDL"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/the-somerset-toiletry-co-sakina-bouy-about-us-page-image.jpg",
+        "use_video": false,
+        "video": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video_autoplay": true,
+        "video_controls": true,
+        "height": "large",
+        "desktop_image_width": "small",
+        "section_width": "grid",
+        "layout": "text_first",
+        "content_position": "text-left",
+        "color_bg": "#263349",
+        "color_text": "#ffffff",
+        "color_border": "#e2e2e2",
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
+      }
+    },
+    "rich_text_RCeAJC": {
+      "type": "rich-text",
+      "settings": {
+        "section_width": "grid",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "color_bg": "rgba(0,0,0,0)",
+        "color_text": "#151515",
+        "color_links": "#151515",
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
+      }
+    },
+    "rich_text_WyKU6U": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_mKEccY": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_xkBwAK": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "size": "h3"
+          }
+        },
+        "text_XB7Wqt": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We’ve been fortunate to earn some incredible accolades along the way, including the Queen’s Award and more recently EB100 Top 100 UK SMEs. But what I’m especially proud of is the positive impact we’re making. Our soap production in the heart of the Somerset countryside, not only allows us to produce top-quality products, but also gives us the chance to support the local community. It has also enabled us to reduce our carbon footprint and continue our sustainable journey.  <\/p>",
+            "custom_liquid": "",
+            "size": "text-size-regular"
+          }
+        },
+        "button_zTe7y7": {
+          "type": "button",
+          "settings": {
+            "link_label": "",
+            "link": "",
+            "button_outline": false
+          }
+        }
+      },
+      "block_order": [
+        "subheading_mKEccY",
+        "heading_xkBwAK",
+        "text_XB7Wqt",
+        "button_zTe7y7"
+      ],
+      "settings": {
+        "section_width": "grid",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "color_bg": "rgba(0,0,0,0)",
+        "color_text": "#151515",
+        "color_links": "#151515",
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
+      }
+    },
+    "image_with_text_DEHAam": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_H9CtHT": {
+          "type": "subheading",
+          "settings": {
+            "text": "exquisitly made, honestly priced."
+          }
+        },
+        "text_cQmLMe": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Quality has always been at the heart of what we do as we source the finest ingredients, and where possible, we use natural extracts to create fragrances and formulations we believe in. We’ve always been committed to cruelty-free practices, testing everything in-house (often by me) to ensure our products are not only safe but aligned with our values. We're very proud to make our soap in Somerset using RSPO-certified sustainable palm oil. <\/p>",
+            "description_size": "medium"
+          }
+        },
+        "button_jXK6Ph": {
+          "type": "button",
+          "settings": {
+            "button_text": "Watch More",
+            "button_link": "https:\/\/www.youtube.com\/watch?v=AHE3gWtMLxU"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_H9CtHT",
+        "text_cQmLMe",
+        "button_jXK6Ph"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/the-somerset-toiletry-co-ministry-of-soap-soap-manufacturing.jpg",
+        "use_video": false,
+        "video": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video_autoplay": true,
+        "video_controls": true,
+        "height": "large",
+        "desktop_image_width": "small",
+        "section_width": "grid",
+        "layout": "image_first",
+        "content_position": "text-left",
+        "color_bg": "#263349",
+        "color_text": "#ffffff",
+        "color_border": "#e2e2e2",
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
+      }
+    },
+    "rich_text_xD4Fzr": {
+      "type": "rich-text",
+      "blocks": {
+        "text_pG4ELx": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Design is equally important to us. Our in-house team of talented designers puts as much thought into the packaging as we do the products themselves, whether it’s classic and elegant or playfully contemporary. We believe that every product should feel special, inside and out.  <\/p>",
+            "custom_liquid": "",
+            "size": "text-size-regular"
+          }
+        }
+      },
+      "block_order": [
+        "text_pG4ELx"
+      ],
+      "settings": {
+        "section_width": "grid",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "color_bg": "rgba(0,0,0,0)",
+        "color_text": "#151515",
+        "color_links": "#151515",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": true
+      }
+    },
+    "gallery_JNpkL3": {
+      "type": "gallery",
+      "settings": {
+        "columns_desktop": 2,
+        "section_width": "grid",
+        "mobile_swipe": false,
+        "image_ratio": "square",
+        "content_position": "bottom-left",
+        "text_alignment": "left",
+        "column_spacing": "small",
+        "heading_size": "h2",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
+      }
+    },
+    "image_with_text_3eR6hq": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_eUcXpg": {
+          "type": "subheading",
+          "settings": {
+            "text": "our collections"
+          }
+        },
+        "text_GXPc9K": {
+          "type": "text",
+          "settings": {
+            "text": "<p>From our beloved collections like Naturally European and Aromas Artesanales De Antigua to our men’s range, Mr Perfect & Friends, our products are crafted with care and consideration for our customers. You can find them in gift shops, garden centres and pharmacies across the globe or online. We’ve also had the pleasure of working with some of the world’s leading retailers, creating exclusive private label brands. <br\/><\/p>",
+            "description_size": "medium"
+          }
+        },
+        "button_UkwtbR": {
+          "type": "button",
+          "settings": {
+            "button_text": "Shop Now",
+            "button_link": "shopify:\/\/collections\/all"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_eUcXpg",
+        "text_GXPc9K",
+        "button_UkwtbR"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/the_somerset_toiletry_co_white_pumpkin_and_sage.jpg",
+        "use_video": false,
+        "video": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video_autoplay": true,
+        "video_controls": true,
+        "height": "large",
+        "desktop_image_width": "small",
+        "section_width": "grid",
+        "layout": "image_first",
+        "content_position": "text-left",
+        "color_bg": "#263349",
+        "color_text": "#ffffff",
+        "color_border": "#ffffff",
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
+      }
+    },
+    "rich_text_QPywDe": {
+      "type": "rich-text",
+      "blocks": {
+        "text_QzBpU7": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Looking back on this journey, I’m incredibly proud of what we’ve built. We’ve stayed true to our mission of creating products we love and are proud to use ourselves—and to share with you. If you'd like to find out more, please visit our cafe and gift shop in Somerset.  <\/p>",
+            "custom_liquid": "",
+            "size": "text-size-regular"
+          }
+        }
+      },
+      "block_order": [
+        "text_QzBpU7"
+      ],
+      "settings": {
+        "section_width": "grid",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "color_bg": "rgba(0,0,0,0)",
+        "color_text": "#151515",
+        "color_links": "#151515",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": true
+      }
+    },
+    "single_image_iyHRYD": {
+      "type": "single-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/STC_Team_2024.jpg",
+        "full_width": false,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": false
+      }
+    },
+    "rich_text_JmNjFi": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_MkyMAh": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_zTDH9F": {
+          "type": "heading",
+          "settings": {
+            "text": "Our Charity Partners",
+            "size": "h3"
+          }
+        },
+        "text_yGQkgn": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "custom_liquid": "",
+            "size": "text-size-regular"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_MkyMAh",
+        "heading_zTDH9F",
+        "text_yGQkgn"
+      ],
+      "settings": {
+        "section_width": "grid",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "color_bg": "rgba(0,0,0,0)",
+        "color_text": "#151515",
+        "color_links": "#151515",
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
+      }
+    },
+    "gallery_QJcahA": {
+      "type": "gallery",
+      "blocks": {
+        "image_n4JXUq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Billy_chip_Logo.jpg",
+            "subheading": "",
+            "title": "BillyChip",
+            "text": "The safe and secure currency bridging the gap between the homeless and the public, creating a connection that makes a real difference.",
+            "link_label": "Find out More",
+            "link": "",
+            "use_text_button": true,
+            "block_link": "",
+            "product_list": [
+
+            ]
+          }
+        },
+        "image_7VwUxn": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SWALLOW_Charity_Logo.jpg",
+            "subheading": "",
+            "title": "SWALLOW Charity",
+            "text": "Empowering teenagers and adults with learning disabilities to thrive with personalised, user-led support.",
+            "link_label": "Find out More",
+            "link": "",
+            "use_text_button": true,
+            "block_link": "",
+            "product_list": [
+
+            ]
+          }
+        }
+      },
+      "block_order": [
+        "image_n4JXUq",
+        "image_7VwUxn"
+      ],
+      "settings": {
+        "columns_desktop": 2,
+        "section_width": "grid",
+        "mobile_swipe": false,
+        "image_ratio": "adapt",
+        "content_position": "bottom-left",
+        "text_alignment": "left",
+        "column_spacing": "small",
+        "heading_size": "h2",
+        "overlay_color": "#000000",
+        "overlay_opacity": 70,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_Qr7bWe",
+    "rich_text_RCeAJC",
+    "rich_text_WyKU6U",
+    "image_with_text_DEHAam",
+    "rich_text_xD4Fzr",
+    "gallery_JNpkL3",
+    "image_with_text_3eR6hq",
+    "rich_text_QPywDe",
+    "single_image_iyHRYD",
+    "rich_text_JmNjFi",
+    "gallery_QJcahA"
+  ]
+}

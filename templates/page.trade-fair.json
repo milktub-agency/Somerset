@@ -1,0 +1,258 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "show_page_title": false,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
+      }
+    },
+    "image_with_text_UMmxB9": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_LH9xeP": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "text": "Retailers",
+            "heading_size": "h2"
+          }
+        },
+        "heading_aqTnBm": {
+          "type": "heading",
+          "settings": {
+            "text": "Calling All Retailers",
+            "heading_size": "h3"
+          }
+        },
+        "subheading_R44nd3": {
+          "type": "subheading",
+          "settings": {
+            "text": "APPLY FOR A TRADE ACCOUNT TODAY!"
+          }
+        },
+        "text_y8MTHF": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you'd like to sell our luxurious yet affordable bath, body and home fragrance in your store, please get in touch. We venture all over the world exhibiting at trade shows to meet new customers and to give you the opportunity to get to know us a little better.<\/p>",
+            "description_size": "medium"
+          }
+        },
+        "button_e94mMC": {
+          "type": "button",
+          "settings": {
+            "button_text": "View 2024 Brochure",
+            "button_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0670\/1167\/4269\/files\/2024_STC_Brochure.pdf?v=1727899899"
+          }
+        }
+      },
+      "block_order": [
+        "heading_LH9xeP",
+        "heading_aqTnBm",
+        "subheading_R44nd3",
+        "text_y8MTHF",
+        "button_e94mMC"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/the-somerset-toiletry-co-brochure-gif-25-trade-page.jpg",
+        "use_video": false,
+        "video": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video_autoplay": true,
+        "video_controls": true,
+        "height": "large",
+        "desktop_image_width": "medium",
+        "section_width": "full-width-row-full",
+        "layout": "text_first",
+        "content_position": "text-left",
+        "color_bg": "#263349",
+        "color_text": "#ffffff",
+        "color_border": "#e2e2e2",
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
+      }
+    },
+    "rich_text_b6tRhH": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_m4HAie": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading for this section"
+          }
+        },
+        "button_Tqc3wb": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "link_label": "Learn More",
+            "link": "",
+            "button_outline": false
+          }
+        }
+      },
+      "block_order": [
+        "subheading_m4HAie",
+        "button_Tqc3wb"
+      ],
+      "settings": {
+        "section_width": "grid",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "color_bg": "rgba(0,0,0,0)",
+        "color_text": "#151515",
+        "color_links": "#151515",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": true
+      }
+    },
+    "multicolumn_hJzGgJ": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_qityMq": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/the-somerset-toiletry-co-trade-shows.jpg",
+            "image_full_width": false,
+            "retina": true,
+            "title": "SPRING FAIR, NEC BIRMINGHAM",
+            "text": "<p><\/p><p>2nd - 5th February 2025<br\/>NEC Birmingham, B40 1NT<br\/>Hall 3 Stand U10-V11<\/p>",
+            "link_label": "Find out More",
+            "link": "https:\/\/www.springfair.com"
+          }
+        },
+        "column_PahdJA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/the-somerset-toiletry-co-trade-shows_jpg.jpg",
+            "image_full_width": false,
+            "retina": true,
+            "title": "COSMOPROF, BOLOGNA",
+            "text": "<p><\/p><p>20th - 22nd March 2025 Bologna, Italy<br\/>Hall 21 Stand L13<\/p>",
+            "link_label": "Find out More",
+            "link": "https:\/\/www.cosmoprof.com\/en\/corporate\/cosmoprof-network\/cosmoprof-made-exhibitions\/cosmoprof-worldwide-bologna\/"
+          }
+        },
+        "column_aRFPeU": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/the-somerset-toiletry-co-trade-shows_1.jpg",
+            "image_full_width": false,
+            "retina": true,
+            "title": "FARM SHOP & DELI SHOW, NEC",
+            "text": "<p><\/p><p>7th - 9th April 2025<br\/>NEC Birmingham, B40 1NT<br\/><br\/><\/p>",
+            "link_label": "Find out More",
+            "link": "https:\/\/www.farmshopanddelishow.co.uk\/"
+          }
+        },
+        "column_Dqrtdx": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/the-somerset-toiletry-co-trade-shows.jpg3.jpg",
+            "image_full_width": false,
+            "retina": true,
+            "title": "HOME & GIFT, HARROGATE",
+            "text": "<p><\/p><p>20th - 23rd July 2025<br\/>Harrogate, HG1 5LA<br\/>Hall A Stand A1<\/p>",
+            "link_label": "Find out More",
+            "link": "https:\/\/homeandgift.co.uk\/"
+          }
+        }
+      },
+      "block_order": [
+        "column_qityMq",
+        "column_PahdJA",
+        "column_aRFPeU",
+        "column_Dqrtdx"
+      ],
+      "settings": {
+        "heading": "2025 Trade Shows",
+        "heading_left": false,
+        "description": "<p><\/p><p>If you’d like to visit us on our trade show tour, here are the shows we’ve currently got penned into our diary. Come along, we’d love to meet you! <\/p><p><\/p>",
+        "full_width": true,
+        "display_type": "grid",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "text_alignment": "center",
+        "heading_size": "h5",
+        "mobile_swipe": false,
+        "show_progress_bar": true,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": false
+      }
+    },
+    "image_with_text_8hk3Ab": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_JTF896": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Add a tagline"
+          }
+        },
+        "heading_qAeAQC": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "text": "Image with text",
+            "heading_size": "h3"
+          }
+        },
+        "heading_P7KMGi": {
+          "type": "heading",
+          "settings": {
+            "text": "Become a Stockist",
+            "heading_size": "h3"
+          }
+        },
+        "text_rxkYwz": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you are interested in stocking products from The Somerset Toiletry Co, please get in touch. <\/p>",
+            "description_size": "medium"
+          }
+        },
+        "text_e9jQBj": {
+          "type": "text",
+          "settings": {
+            "text": "<h4>UK Trade Enquiries<\/h4><p><a href=\"mailto:uk@tstcglobal.com\">uk@tstcglobal.com<\/a><\/p><h4>International Trade Enquiries<\/h4><p><a href=\"mailto:export@tstcglobal.com\">export@tstcglobal.com<\/a><\/p>",
+            "description_size": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_JTF896",
+        "heading_qAeAQC",
+        "heading_P7KMGi",
+        "text_rxkYwz",
+        "text_e9jQBj"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2024-09-27_at_3.01.27_PM.png",
+        "use_video": false,
+        "video": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video_autoplay": true,
+        "video_controls": true,
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "section_width": "full-width-row-full",
+        "layout": "image_first",
+        "content_position": "text-left",
+        "color_bg": "#e9e9e9",
+        "color_text": "#151515",
+        "color_border": "#e2e2e2",
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_UMmxB9",
+    "rich_text_b6tRhH",
+    "multicolumn_hJzGgJ",
+    "image_with_text_8hk3Ab"
+  ]
+}

@@ -1,0 +1,652 @@
+{
+  "sections": {
+    "gallery_nw9Kdy": {
+      "type": "gallery",
+      "blocks": {
+        "image_qidtJ9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/the_somerset_toiletry_co_web_boxes_faq_page.jpg",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "link_label": "Orders",
+            "link": "",
+            "use_text_button": false,
+            "block_link": "",
+            "product_list": [
+
+            ]
+          }
+        },
+        "image_XezMDr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/products-faqs-page-the-somerset-toiletry-company_png.jpg",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "link_label": "Products",
+            "link": "",
+            "use_text_button": false,
+            "block_link": "",
+            "product_list": [
+
+            ]
+          }
+        }
+      },
+      "block_order": [
+        "image_qidtJ9",
+        "image_XezMDr"
+      ],
+      "disabled": true,
+      "settings": {
+        "columns_desktop": 2,
+        "section_width": "grid",
+        "mobile_swipe": false,
+        "image_ratio": "square",
+        "content_position": "bottom-center",
+        "text_alignment": "center",
+        "column_spacing": "small",
+        "heading_size": "h2",
+        "overlay_color": "#000000",
+        "overlay_opacity": 8,
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "faq": {
+      "type": "collapsible-content",
+      "blocks": {
+        "a82c71ab-5eef-4ac6-8278-42c4bf4565d6": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "How Long Does An Order Take To Arrive?",
+            "open": false,
+            "content": "<p>International orders normally arrive within 2-4 weeks of shipping. Please note that these orders need to pass through the customs office in your country before it will be released for final delivery, which can occasionally cause additional delays. Once an order leaves our warehouse, carrier shipping delays may occur due to factors outside our control. We, unfortunately, can’t control how quickly an order arrives once it has left our warehouse. Contacting the carrier is the best way to get more insight into your package’s location and estimated delivery date.<\/p>",
+            "page": ""
+          }
+        },
+        "aa70895f-8889-4293-8c7d-ff7bc2b81c57": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "How Do I Set Up A Subscription Order?",
+            "open": false,
+            "content": "<p>We will deliver products to you as soon as reasonably possible. Orders are usually dispatched between 1-3 days from the date of the order being placed. Please contact us our customer service team if your delivery has not been received within the dates described.<\/p>",
+            "page": ""
+          }
+        },
+        "72f09ca5-4337-4a0b-bcd2-0a7af9183034": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "How To Return My Items?",
+            "open": false,
+            "content": "<p>We do not currently offer free returns to overseas customers. You will therefore need to cover all costs of returning any items to us yourself. We advise that you mark your package ‘returned goods’ to avoid further duties. Remember: We strongly recommend that you return any items via a registered trackable service and obtain and retain proof of posting as we do not accept responsibility for items that fail to arrive with us.<\/p>",
+            "page": ""
+          }
+        },
+        "d8b3ed5d-d5cf-4b20-9bed-893f2be8497f": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "How Can I Choose The Right Size For Me?",
+            "open": false,
+            "content": "<p>Habitat has created a universal sizing system that aims to provide a unique reference for all countries. You can easily spot the best size for you by referring to our Size Guide that provides a conversion table to all major country size systems. <\/p><p>The Size Guide is conveniently available on the page of each product.<\/p>",
+            "page": ""
+          }
+        },
+        "5f34dba8-15e0-4aac-91f7-5a103657361d": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Which Payment Methods Do You Accept?",
+            "open": false,
+            "content": "<p>Habitat accepts the following payment methods for online purchases:<br\/><br\/>• All major credit cards, as shown at checkout<\/p><p>• PayPal: if you do not have an account yet, you can create one while shopping with us<\/p><p>• Apple Pay, Google Pay, Samsung Pay<\/p><p>Please note that your billing address must match the address on your credit card statement.<\/p>",
+            "page": ""
+          }
+        },
+        "fa2985e2-4983-462b-80c8-596d4ae47540": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "How Can I Track My Order?",
+            "open": false,
+            "content": "<p>Once you place your order online, you will be able to see the details of the purchase, follow its preparation, and see shipping updates in the My Account area.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "a82c71ab-5eef-4ac6-8278-42c4bf4565d6",
+        "aa70895f-8889-4293-8c7d-ff7bc2b81c57",
+        "72f09ca5-4337-4a0b-bcd2-0a7af9183034",
+        "d8b3ed5d-d5cf-4b20-9bed-893f2be8497f",
+        "5f34dba8-15e0-4aac-91f7-5a103657361d",
+        "fa2985e2-4983-462b-80c8-596d4ae47540"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "New To The Somerset Toiletry Co.",
+        "description": "",
+        "uppercase_heading": true,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": false
+      }
+    },
+    "image_with_text_tgiTir": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_e4rhCF": {
+          "type": "subheading",
+          "settings": {
+            "text": "Frequently Asked Questions"
+          }
+        },
+        "heading_b7peMd": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "heading_size": "h3"
+          }
+        },
+        "text_77NbGd": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "description_size": "medium"
+          }
+        },
+        "collapsible_tab_jhq9Ar": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Where can I find out more about The Somerset Toiletry Company?",
+            "open": false,
+            "content": "<p>You can read more about our company on our <a href=\"\/pages\/about-us\" title=\"About us\">About Us<\/a> page or on our <a href=\"\/blogs\/blog\" title=\"Blog\">blog<\/a>. If you can’t find what you’re looking for please contact us at <a href=\"mailto:sayhello@tstcglobal.com\">sayhello@tstcglobal.com <\/a>with your questions.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_rgPwbm": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Who should I contact regarding press enquiries?",
+            "open": false,
+            "content": "<p>For all press enquiries please contact us at <a href=\"mailto:lisa.moon@tstcglobal.com\">lisa.moon@tstcglobal.com<\/a><\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_qbmwNK": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Who should I contact regarding becoming a stockist?",
+            "open": false,
+            "content": "<p>If you’d like more information on our product ranges and or would like to become a stockist we’d love to hear from you. Please contact our sales team at <a href=\"mailto:sayhello@tstcglobal.com\">sayhello@tstcglobal.com<\/a><\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_MPRJLq": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Who should I contact for general product or company information?",
+            "open": false,
+            "content": "<p>We have lots of information on our website but if you can't find what you're looking for, please email us at <a href=\"mailto:sayhello@tstcglobal.com\">sayhello@tstcglobal.com<\/a><\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_e4rhCF",
+        "heading_b7peMd",
+        "text_77NbGd",
+        "collapsible_tab_jhq9Ar",
+        "collapsible_tab_rgPwbm",
+        "collapsible_tab_qbmwNK",
+        "collapsible_tab_MPRJLq"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Pumpkin_Hand_Cream_4.jpg",
+        "use_video": false,
+        "video": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video_autoplay": true,
+        "video_controls": true,
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "section_width": "grid",
+        "layout": "text_first",
+        "content_position": "text-left",
+        "color_bg": "#e9e9e9",
+        "color_text": "#151515",
+        "color_border": "#e2e2e2",
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": false
+      }
+    },
+    "collapsible_content_by6kYP": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_tab_YtpbPF": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Where can I find out about The Somerset Toiletry Company?",
+            "open": false,
+            "content": "<p>You can read more about our company on our <a href=\"http:\/\/localhost\/thesomersettoiletryco.com\/about-us\/\">About Us <\/a>page. If you can’t find what you’re looking for please contact us at <a href=\"mailto:sayhello@tstcglobal.com\">sayhello@tstcglobal.com<\/a>with your questions.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_FW67hT": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Who should I contact regarding press enquiries?",
+            "open": false,
+            "content": "<p>For all press enquiries please contact us at <a href=\"mailto:lisa.moon@tstcglobal.com\">lisa.moon@tstcglobal.com<\/a><\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_CTjVXx": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Who should I contact regarding becoming a stockist?",
+            "open": false,
+            "content": "<p>If you’d like more information on our product ranges and or would like to become a stockist we’d love to hear from you. Please contact our sales team at <a href=\"mailto:sayhello@tstcglobal.com\">sayhello@tstcglobal.com<\/a><\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_cELfAf": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Who should I contact for general product or company information?",
+            "open": false,
+            "content": "<p>Any information you require about our products can be obtained by contacting us at <a href=\"mailto:sayhello@tstcglobal.com\">sayhello@tstcglobal.com <\/a>where we will source the information for you. If you have any queries regarding our products, our company, ordering, or anything else please do get in touch with us at <a href=\"mailto:sayhello@tstcglobal.com\">sayhello@tstcglobal.com<\/a><\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_tab_YtpbPF",
+        "collapsible_tab_FW67hT",
+        "collapsible_tab_CTjVXx",
+        "collapsible_tab_cELfAf"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "New To The Somerset Toiletry Co.",
+        "description": "",
+        "uppercase_heading": true,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": false
+      }
+    },
+    "image_with_text_overlay_cWVXAp": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_HC7RtN": {
+          "type": "subheading",
+          "settings": {
+            "text": "How Can I Contact You?"
+          }
+        },
+        "heading_HRbxxR": {
+          "type": "heading",
+          "settings": {
+            "text": "Monday to Friday 9am – 5pmLive chat available on our website (10am – 4pm)",
+            "heading_size": "h1"
+          }
+        },
+        "button_kq7ztM": {
+          "type": "button",
+          "settings": {
+            "button_text": "email",
+            "button_link": "mailto:sayhello@tstcglobal.com",
+            "button_outline": true
+          }
+        },
+        "button_mXpVbM": {
+          "type": "button",
+          "settings": {
+            "button_text": "Phone",
+            "button_link": "tel:01761451122",
+            "button_outline": true
+          }
+        }
+      },
+      "block_order": [
+        "subheading_HC7RtN",
+        "heading_HRbxxR",
+        "button_kq7ztM",
+        "button_mXpVbM"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_width": "full-width-row-full",
+        "image": "shopify:\/\/shop_images\/the-somerset-toiletry-company-faq-background.jpg",
+        "image_parallax": false,
+        "desktop_height": "desktop-height-full",
+        "mobile_height": "mobile-height-450",
+        "content_width": "large",
+        "content_position": "middle-center",
+        "text_alignment": "center",
+        "overlay_opacity": 27,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
+      }
+    },
+    "rich_text_WHCUa6": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_k73Uf8": {
+          "type": "subheading",
+          "settings": {
+            "text": "How can i contact you?"
+          }
+        },
+        "text_8x7rdB": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Email or call Mon to Fri 9am – 5pm<br\/>Live Chat available<\/p>",
+            "custom_liquid": "",
+            "size": "text-size-regular"
+          }
+        },
+        "button_A3e8Gp": {
+          "type": "button",
+          "settings": {
+            "link_label": "Contact US",
+            "link": "shopify:\/\/pages\/contact-us",
+            "button_outline": false
+          }
+        }
+      },
+      "block_order": [
+        "subheading_k73Uf8",
+        "text_8x7rdB",
+        "button_A3e8Gp"
+      ],
+      "settings": {
+        "section_width": "grid",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "color_bg": "rgba(0,0,0,0)",
+        "color_text": "#151515",
+        "color_links": "#151515",
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
+      }
+    },
+    "text_with_icons_PxEaeP": {
+      "type": "text-with-icons",
+      "blocks": {
+        "icon_E7GXVj": {
+          "type": "icon",
+          "settings": {
+            "icon": "ruler",
+            "image": "shopify:\/\/shop_images\/Pumpkin_Hand_Cream_2.png",
+            "heading": "Call & Email",
+            "text": ""
+          }
+        },
+        "icon_pnifkA": {
+          "type": "icon",
+          "disabled": true,
+          "settings": {
+            "icon": "heart",
+            "image": "shopify:\/\/shop_images\/Pumpkin_Hand_Cream_1.jpg",
+            "heading": "Email",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "icon_Pg3Wd6": {
+          "type": "icon",
+          "settings": {
+            "icon": "chat_bubble",
+            "image": "shopify:\/\/shop_images\/Pumpkin_Hand_Cream_3.png",
+            "heading": "Live Chat",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "icon_E7GXVj",
+        "icon_pnifkA",
+        "icon_Pg3Wd6"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "icon_position": "top",
+        "icon_size": "xlarge",
+        "heading_size": "large",
+        "mobile_swipe": false,
+        "color_bg": "rgba(0,0,0,0)",
+        "color_heading": "#151515",
+        "color_text": "#151515",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "image_with_text_ig9TgX": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_ApXDPa": {
+          "type": "subheading",
+          "settings": {
+            "text": "Order Information"
+          }
+        },
+        "collapsible_tab_8QMYrk": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Can I change my order?",
+            "open": false,
+            "content": "<p>TBC<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_A4CjgR": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Can I send my order as a gift?",
+            "open": false,
+            "content": "<p>Yes, you can send your package directly to an alternative address knowing  our packing slips do not show any prices.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_pRJWbE": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Packaging",
+            "open": false,
+            "content": "<p>We use cardboard boxes for shipping, and protect your items using Biofil, an environmentally friendly material made using corn starch that dissolves in water. Very occasionally, we may use bubble wrap on a particular glass item we know do not travel well.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_GXjGtT": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Which carrier do you use?",
+            "open": false,
+            "content": "<p><strong>Standard UK Delivery<\/strong> is sent via Royal Mail 48hr. <\/p><p><strong>Next Day Delivery<\/strong> and orders over 2kg in weight will be sent via DPD 24hr tracked.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_cbe6xw": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "How long does delivery take?",
+            "open": false,
+            "content": "<p><strong>Standard UK Delivery<br\/><\/strong>Please allow up to 3 working days* for your order to be prepared, dispatched and delivered. <\/p><p><strong>Next Day Delivery<br\/><\/strong>Orders need to be placed before midday Mon-Thur to arrive the following working day.<\/p><p>*Please note remote deliveries (Highlands & Islands) may take up to 5 working days.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_d39ndR": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "When will my order be dispatched?",
+            "open": false,
+            "content": "<p>Orders are processed daily Monday to Friday (not weekends or bank holidays).<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_zeUzGz": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "My order's arrived damaged, what are my options?",
+            "open": false,
+            "content": "<p>If you’re items are damaged or faulty please <a href=\"\/pages\/contact-us\" title=\"Contact Us\">contact us<\/a> with your name, date of order, order number and a photo. We will do our best to resolve the issue.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_ApXDPa",
+        "collapsible_tab_8QMYrk",
+        "collapsible_tab_A4CjgR",
+        "collapsible_tab_pRJWbE",
+        "collapsible_tab_GXjGtT",
+        "collapsible_tab_cbe6xw",
+        "collapsible_tab_d39ndR",
+        "collapsible_tab_zeUzGz"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/the_somerset_toiletry_co_web_boxes_faq_page.jpg",
+        "use_video": false,
+        "video": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video_autoplay": true,
+        "video_controls": true,
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "section_width": "grid",
+        "layout": "image_first",
+        "content_position": "text-left",
+        "color_bg": "#ffffff",
+        "color_text": "#151515",
+        "color_border": "#e2e2e2",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": true
+      }
+    },
+    "rich_text_rPDhwh": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_GYVKqz": {
+          "type": "subheading",
+          "settings": {
+            "text": "Where can I buy The Somerset Toiletry Company products?"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_GYVKqz"
+      ],
+      "settings": {
+        "section_width": "grid",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "color_bg": "rgba(0,0,0,0)",
+        "color_text": "#151515",
+        "color_links": "#151515",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": true
+      }
+    },
+    "text_with_icons_3yjEwx": {
+      "type": "text-with-icons",
+      "blocks": {
+        "icon_dwt76U": {
+          "type": "icon",
+          "settings": {
+            "icon": "plane",
+            "image": "shopify:\/\/shop_images\/Pumpkin_Hand_Cream_7.jpg",
+            "heading": "UK",
+            "text": "<p>If you're based in the UK you can shop via our website or find your local stockist using our map. <\/p>"
+          }
+        },
+        "icon_DcU7mU": {
+          "type": "icon",
+          "settings": {
+            "icon": "ruler",
+            "image": "shopify:\/\/shop_images\/Pumpkin_Hand_Cream_8.jpg",
+            "heading": "USA",
+            "text": "<p>If you live in the United States of America or Canada, please email our distributor <a href=\"mailto:ucscustomerservice@uppercanadasoap.com\" title=\"mailto:ucscustomerservice@uppercanadasoap.com\"><strong>ucscustomerservice@uppercanadasoap.com<\/strong><\/a><strong>. <\/strong><\/p>"
+          }
+        },
+        "icon_UHPqwF": {
+          "type": "icon",
+          "settings": {
+            "icon": "ruler",
+            "heading": "Rest of the World",
+            "text": "<p>For all other enquiries, please email us at <a href=\"mailto:sayhello@tstcglobal.com\"><strong>export@tstcglobal.com<\/strong><\/a>. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "icon_dwt76U",
+        "icon_DcU7mU",
+        "icon_UHPqwF"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "icon_position": "top",
+        "icon_size": "large",
+        "heading_size": "large",
+        "mobile_swipe": true,
+        "color_bg": "#ffffff",
+        "color_heading": "#151515",
+        "color_text": "#151515",
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": false
+      }
+    },
+    "image_with_text_nGXPTX": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_3gJEHG": {
+          "type": "subheading",
+          "settings": {
+            "text": "Trade Questions"
+          }
+        },
+        "text_bkVfaT": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Please contact us for any trade related enquiries at <strong>uk@tstcglobal.com<\/strong>.<\/p>",
+            "description_size": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_3gJEHG",
+        "text_bkVfaT"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Pumpkin_Hand_Cream_5.jpg",
+        "use_video": false,
+        "video": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video_autoplay": true,
+        "video_controls": true,
+        "height": "small",
+        "desktop_image_width": "small",
+        "section_width": "grid",
+        "layout": "image_first",
+        "content_position": "text-center",
+        "color_bg": "#e9e9e9",
+        "color_text": "#151515",
+        "color_border": "#e2e2e2",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    }
+  },
+  "order": [
+    "gallery_nw9Kdy",
+    "faq",
+    "image_with_text_tgiTir",
+    "collapsible_content_by6kYP",
+    "image_with_text_overlay_cWVXAp",
+    "rich_text_WHCUa6",
+    "text_with_icons_PxEaeP",
+    "image_with_text_ig9TgX",
+    "rich_text_rPDhwh",
+    "text_with_icons_3yjEwx",
+    "image_with_text_nGXPTX"
+  ]
+}

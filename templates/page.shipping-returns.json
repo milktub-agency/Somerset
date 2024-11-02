@@ -1,0 +1,41 @@
+{
+  "sections": {
+    "rich_text_wzHBge": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_9wWDyn": {
+          "type": "subheading",
+          "settings": {
+            "text": "Shipping & Returns"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_9wWDyn"
+      ],
+      "settings": {
+        "section_width": "grid",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "color_bg": "#263349",
+        "color_text": "#ffffff",
+        "color_links": "#151515",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "show_page_title": false,
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    }
+  },
+  "order": [
+    "rich_text_wzHBge",
+    "main"
+  ]
+}

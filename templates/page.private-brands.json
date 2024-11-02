@@ -1,0 +1,260 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "show_page_title": true,
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": true
+      }
+    },
+    "image_with_text_mridQW": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_8ELRyR": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Add a tagline"
+          }
+        },
+        "heading_Lab4VN": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "text": "Image with text",
+            "heading_size": "h3"
+          }
+        },
+        "text_VdrJK8": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "description_size": "small"
+          }
+        },
+        "text_T4wcaq": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Somerset Toiletry Company has a wealth of experience in design, formulation and production of body care and home fragrance.<\/p><p>As a result, we often work with other companies who wish to develop their own branded products. We currently produce products for leading retail groups around the world including TJ Maxx and Oliver Bonas.<\/p><p>We work with various suppliers and filling factories all over the world, enabling us to achieve required price points. For over 25 years we have developed great relationships with our suppliers and continue to work closely with them to ensure we provide the best possible products. <\/p>",
+            "description_size": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_8ELRyR",
+        "heading_Lab4VN",
+        "text_VdrJK8",
+        "text_T4wcaq"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/the-somerset-toiletry-co-private-label_1.jpg",
+        "use_video": false,
+        "video": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video_autoplay": true,
+        "video_controls": true,
+        "height": "large",
+        "desktop_image_width": "medium",
+        "section_width": "full-width-row-full",
+        "layout": "text_first",
+        "content_position": "text-left",
+        "color_bg": "#263349",
+        "color_text": "#ffffff",
+        "color_border": "#e2e2e2",
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
+      }
+    },
+    "logo_list_eXJTt3": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_RLmHR8": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/somerset-toiletry-asquith-and-somerset-logo-1.svg",
+            "link": ""
+          }
+        },
+        "logo_3A8BGM": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/somerset-toiletry-penningtons-logo-1.svg",
+            "link": ""
+          }
+        },
+        "logo_thqjYH": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Addison_Gates_Logo_1.jpg",
+            "link": ""
+          }
+        },
+        "logo_hx8hcF": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Milton_Drew_Logo.jpg",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_RLmHR8",
+        "logo_3A8BGM",
+        "logo_thqjYH",
+        "logo_hx8hcF"
+      ],
+      "settings": {
+        "heading": "",
+        "description": "",
+        "columns": 4,
+        "mobile_swipe": true,
+        "center_align": false,
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "multicolumn_F7ccU9": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_4EGEzN": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Product Type",
+            "text": "<p>What type of products do you want to produce e.g. bar soap?<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_4qHmnp": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Requirements",
+            "text": "<p>Do you have specific requirement for country of origin<br\/>e.g. Made in the UK?<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_wVEgQh": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Stores",
+            "text": "<p>How many stores do you currently have?<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_68ggdD": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "How Many",
+            "text": "<p>How many pieces of each product do you require?<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_DqFWpn": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Deadline",
+            "text": "<p>Are you working to a deadline for delivery?<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_PxNmV8": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "RRP",
+            "text": "<p>Do you have an idea of RRP you are aiming for?<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_4EGEzN",
+        "column_4qHmnp",
+        "column_wVEgQh",
+        "column_68ggdD",
+        "column_DqFWpn",
+        "column_PxNmV8"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_left": false,
+        "description": "<p>If you would like to contact us to explore private label opportunities, this is the type of information we would need to discuss:<\/p><p><\/p>",
+        "full_width": true,
+        "display_type": "grid",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "text_alignment": "center",
+        "heading_size": "h5",
+        "mobile_swipe": false,
+        "show_progress_bar": true,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
+      }
+    },
+    "rich_text_df4UGa": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_EPpdYj": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_3b8Qi9": {
+          "type": "heading",
+          "settings": {
+            "text": "Get in Touch",
+            "size": "h3"
+          }
+        },
+        "text_8gghjc": {
+          "type": "text",
+          "settings": {
+            "text": "<p>For any enquiries please contact alex.whitcombe@tstcglobal.com<\/p>",
+            "custom_liquid": "",
+            "size": "text-size-regular"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_EPpdYj",
+        "heading_3b8Qi9",
+        "text_8gghjc"
+      ],
+      "settings": {
+        "section_width": "grid",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "color_bg": "#dedede",
+        "color_text": "#151515",
+        "color_links": "#151515",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_mridQW",
+    "logo_list_eXJTt3",
+    "multicolumn_F7ccU9",
+    "rich_text_df4UGa"
+  ]
+}

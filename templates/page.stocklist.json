@@ -1,0 +1,756 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": true,
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "rich_text_dpAQqM": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_k36dxQ": {
+          "type": "heading",
+          "settings": {
+            "text": "Stockists",
+            "size": "h3"
+          }
+        }
+      },
+      "block_order": [
+        "heading_k36dxQ"
+      ],
+      "settings": {
+        "section_width": "full-width-row-full",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "color_bg": "#f7f7f7",
+        "color_text": "#151515",
+        "color_links": "#151515",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "multicolumn_YaCqr6": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_gMw8Q8": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Anne Lawton",
+            "text": "<p>Anne Lawton<\/p><p>Bristol<\/p><p>Bishop Sutton BS39 5UQ<\/p><p>United Kingdom<\/p><p><strong>Phone<\/strong>: 07880 905635<\/p><p>2 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/?api=1&origin=37%20Upper%20Bristol%20Rd%2C%20Clutton%2C%20Bristol%20BS39%205TB%2C%20UK&destination=Anne%20Lawton%2C%20Bishop%20Sutton%2C%20BS39%205UQ%2C%20United%20Kingdom&travelmode=driving"
+          }
+        },
+        "column_kj47yd": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Berry Barn Gift Shop",
+            "text": "<p>AT HOME FARM<\/p><p>SOMERSET<\/p><p>FARRINGTON GURNEY BS39 6UB<\/p><p>United Kingdom<\/p><p><strong>Phone<\/strong>: 01761 452442<\/p><p>2.4 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/?api=1&origin=37%20Upper%20Bristol%20Rd%2C%20Clutton%2C%20Bristol%20BS39%205TB%2C%20UK&destination=AT%20HOME%20FARM%2C%20FARRINGTON%20GURNEY%2C%20BS39%206UB%2C%20United%20Kingdom&travelmode=driving"
+          }
+        },
+        "column_PTqYhz": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "New Manor Farm",
+            "text": "<p>West Harptree<\/p><p>Bristol<\/p><p>Bristol BS40 6HW<\/p><p>United Kingdom<\/p><p><strong>Phone<\/strong>: 01761 221313<\/p><p>2.8 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/?api=1&origin=37%20Upper%20Bristol%20Rd%2C%20Clutton%2C%20Bristol%20BS39%205TB%2C%20UK&destination=West%20Harptree%2C%20Bristol%2C%20BS40%206HW%2C%20United%20Kingdom&travelmode=driving"
+          }
+        },
+        "column_Y9QAwb": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "City Plumbing Supplies",
+            "text": "<p>Unit B, Old Mills<\/p><p>PAULTON BS39 7SW<\/p><p>United Kingdom<\/p><p><strong>Email<\/strong>: jane.scarth@cityplumbing.co.uk<\/p><p>3.4 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/?api=1&origin=37%20Upper%20Bristol%20Rd%2C%20Clutton%2C%20Bristol%20BS39%205TB%2C%20UK&destination=Unit%20B%2C%20Old%20Mills%2C%20PAULTON%2C%20BS39%207SW%2C%20United%20Kingdom&travelmode=driving"
+          }
+        },
+        "column_q9eNfN": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Banksia Flowers & Gifts",
+            "text": "<p>2 South Parade<\/p><p>Chew Magna BS40 8SH<\/p><p>United Kingdom<\/p><p><strong>Phone<\/strong>: 0117 316 4435<\/p><p><strong>Email<\/strong>: banksiaflowersandgifts@gmail.com<\/p><p>3.6 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/?api=1&origin=37%20Upper%20Bristol%20Rd%2C%20Clutton%2C%20Bristol%20BS39%205TB%2C%20UK&destination=2%20South%20Parade%2C%20Chew%20Magna%2C%20BS40%208SH%2C%20United%20Kingdom&travelmode=driving"
+          }
+        },
+        "column_9AdRF6": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Object Gifts (Moondart)",
+            "text": "<p>UNIT 7 THE HOLLIES<\/p><p>BATH<\/p><p>MIDSOMER NORTON BA3 2DT<\/p><p>United Kingdom<\/p><p><strong>Phone<\/strong>: 01761 416170<\/p><p>4.2 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/?api=1&origin=37%20Upper%20Bristol%20Rd%2C%20Clutton%2C%20Bristol%20BS39%205TB%2C%20UK&destination=UNIT%207%20THE%20HOLLIES%2C%20MIDSOMER%20NORTON%2C%20BA3%202DT%2C%20United%20Kingdom&travelmode=driving"
+          }
+        },
+        "column_whQ8wt": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Whitehall Garden Centre – Whitchurch",
+            "text": "<p>NORTON LANE<\/p><p>BRISTOL<\/p><p>WHITCHURCH BS14 0BT<\/p><p>United Kingdom<\/p><p><strong>Phone<\/strong>: 01275 832296<\/p><p>4.6 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/?api=1&origin=37%20Upper%20Bristol%20Rd%2C%20Clutton%2C%20Bristol%20BS39%205TB%2C%20UK&destination=NORTON%20LANE%2C%20WHITCHURCH%2C%20BS14%200BT%2C%20United%20Kingdom&travelmode=driving"
+          }
+        },
+        "column_3EUWj6": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "George’s Garden",
+            "text": "<p>Gurney Slade<\/p><p>Radstock BA3 4TZ<\/p><p>United Kingdom<\/p><p><strong>Phone<\/strong>: 07736 918464<\/p><p><strong>Email<\/strong>: sarah@georgesgarden.co.uk<\/p><p>5.4 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/?api=1&origin=37%20Upper%20Bristol%20Rd%2C%20Clutton%2C%20Bristol%20BS39%205TB%2C%20UK&destination=Gurney%20Slade%2C%20Radstock%2C%20BA3%204TZ%2C%20United%20Kingdom&travelmode=driving"
+          }
+        },
+        "column_XMLBfU": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Sulis Hospital Bath Limited",
+            "text": "<p>Sulis Hospital Bath Limited<\/p><p>Peasedown St John BA2 8SQ<\/p><p>United Kingdom<\/p><p><strong>Phone<\/strong>: 01761 422222<\/p><p><strong>Email<\/strong>: Cecilia.Saceanu@sulishospital.com<\/p><p>5.8 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/?api=1&origin=37%20Upper%20Bristol%20Rd%2C%20Clutton%2C%20Bristol%20BS39%205TB%2C%20UK&destination=Sulis%20Hospital%20Bath%20Limited%2C%20Peasedown%20St%20John%2C%20BA2%208SQ%2C%20United%20Kingdom&travelmode=driving"
+          }
+        },
+        "column_N7mL4T": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Cotswold Fayre Farm Shop Ltd T\/A Flourish Foodhall & Kitchen",
+            "text": "<p>Glenavon Farm<\/p><p>Saltford BS31 3TJ<\/p><p>United Kingdom<\/p><p><strong>Phone<\/strong>: 07584 232384<\/p><p><strong>Email<\/strong>: accounts@flourishatglenavon.co.uk<\/p><p>6.3 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/?api=1&origin=37%20Upper%20Bristol%20Rd%2C%20Clutton%2C%20Bristol%20BS39%205TB%2C%20UK&destination=Glenavon%20Farm%2C%20Saltford%2C%20BS31%203TJ%2C%20United%20Kingdom&travelmode=driving"
+          }
+        },
+        "column_8667kN": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Holt Farms Ltd – Yeo Valley Organic Garden",
+            "text": "<p>Yeo Valley Organic Garden<\/p><p>Bristol<\/p><p>Blagdon BS40 7SQ<\/p><p>United Kingdom<\/p><p><strong>Phone<\/strong>: 01761 258155<\/p><p>6.5 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/?api=1&origin=37%20Upper%20Bristol%20Rd%2C%20Clutton%2C%20Bristol%20BS39%205TB%2C%20UK&destination=Yeo%20Valley%20Organic%20Garden%2C%20Blagdon%2C%20BS40%207SQ%2C%20United%20Kingdom&travelmode=driving"
+          }
+        },
+        "column_nBtMyh": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Hillier Nurseries Limited – Bath",
+            "text": "<p>Whiteway Road<\/p><p>Somerset<\/p><p>BATH BA2 2RG<\/p><p>United Kingdom<\/p><p><strong>Phone<\/strong>: 01794 368733<\/p><p>6.9 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/?api=1&origin=37%20Upper%20Bristol%20Rd%2C%20Clutton%2C%20Bristol%20BS39%205TB%2C%20UK&destination=Whiteway%20Road%2C%20BATH%2C%20BA2%202RG%2C%20United%20Kingdom&travelmode=driving"
+          }
+        },
+        "column_gFtD9K": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "St Peter’s Hospice",
+            "text": "<p>Unit 4 Avon Riverside<\/p><p>Bristol<\/p><p>Avonmouth BS11 9DB<\/p><p>United Kingdom<\/p><p><strong>Phone<\/strong>: 07721 630992<\/p><p>7 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/?api=1&origin=37%20Upper%20Bristol%20Rd%2C%20Clutton%2C%20Bristol%20BS39%205TB%2C%20UK&destination=Unit%204%20Avon%20Riverside%2C%20Avonmouth%2C%20BS11%209DB%2C%20United%20Kingdom&travelmode=driving"
+          }
+        },
+        "column_d3A9UT": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Total Bathrooms",
+            "text": "<p>Unit 2<\/p><p>BANES<\/p><p>Bath BA1 3JF<\/p><p>United Kingdom<\/p><p><strong>Phone<\/strong>: 01225 462727<\/p><p>7.4 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/?api=1&origin=37%20Upper%20Bristol%20Rd%2C%20Clutton%2C%20Bristol%20BS39%205TB%2C%20UK&destination=Unit%202%2C%20Bath%2C%20BA1%203JF%2C%20United%20Kingdom&travelmode=driving"
+          }
+        },
+        "column_fhUwby": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Fonthill Garden Centre",
+            "text": "<p>Bath Road<\/p><p>South Gloucestershire<\/p><p>BRISTOL BS30 6HX<\/p><p>United Kingdom<\/p><p><strong>Phone<\/strong>: 0117 9323110<\/p><p>7.5 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/?api=1&origin=37%20Upper%20Bristol%20Rd%2C%20Clutton%2C%20Bristol%20BS39%205TB%2C%20UK&destination=Bath%20Road%2C%20BRISTOL%2C%20BS30%206HX%2C%20United%20Kingdom&travelmode=driving"
+          }
+        },
+        "column_HTdk7G": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Paprika – Bath",
+            "text": "<p>8d Chelsea Road<\/p><p>Somerset<\/p><p>Bath BA1 3DU<\/p><p>United Kingdom<\/p><p><strong>Phone<\/strong>: 01225 443246<\/p><p>7.8 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/?api=1&origin=37%20Upper%20Bristol%20Rd%2C%20Clutton%2C%20Bristol%20BS39%205TB%2C%20UK&destination=8d%20Chelsea%20Road%2C%20Bath%2C%20BA1%203DU%2C%20United%20Kingdom&travelmode=driving"
+          }
+        },
+        "column_bkripr": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Julian House",
+            "text": "<p>26 Shaftesbury Avenue<\/p><p>BATH BA2 3LJ<\/p><p>United Kingdom<\/p><p><strong>Phone<\/strong>: 07507 385061<\/p><p><strong>Email<\/strong>: Tom.foulk@julianhouse.org.uk<\/p><p>7.9 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/?api=1&origin=37%20Upper%20Bristol%20Rd%2C%20Clutton%2C%20Bristol%20BS39%205TB%2C%20UK&destination=26%20Shaftesbury%20Avenue%2C%20BATH%2C%20BA2%203LJ%2C%20United%20Kingdom&travelmode=driving"
+          }
+        },
+        "column_fiiWVy": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Preddy Newco Pharmacy",
+            "text": "<p>41 Moorland Road<\/p><p>BATH BA2 3PN<\/p><p>United Kingdom<\/p><p><strong>Phone<\/strong>: 07717 710286<\/p><p><strong>Email<\/strong>: Satinder@allcures.com<\/p><p>8 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/?api=1&origin=37%20Upper%20Bristol%20Rd%2C%20Clutton%2C%20Bristol%20BS39%205TB%2C%20UK&destination=41%20Moorland%20Road%2C%20BATH%2C%20BA2%203PN%2C%20United%20Kingdom&travelmode=driving"
+          }
+        },
+        "column_xYqRzc": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Expressions Swindon Ltd T\/A Polkadot",
+            "text": "<p>42 High Street<\/p><p>Bristol<\/p><p>BRISTOL BS31 1DX<\/p><p>United Kingdom<\/p><p><strong>Phone<\/strong>: 01793 528591<\/p><p>8.8 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/?api=1&origin=37%20Upper%20Bristol%20Rd%2C%20Clutton%2C%20Bristol%20BS39%205TB%2C%20UK&destination=42%20High%20Street%2C%20BRISTOL%2C%20BS31%201DX%2C%20United%20Kingdom&travelmode=driving"
+          }
+        },
+        "column_XPXkUr": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Jacks of Bath",
+            "text": "<p>8 Abbey Churchyard<\/p><p>Somerset<\/p><p>BATH BA1 1LY<\/p><p>United Kingdom<\/p><p><strong>Phone<\/strong>: 01225 920702<\/p><p>8.8 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/?api=1&origin=37%20Upper%20Bristol%20Rd%2C%20Clutton%2C%20Bristol%20BS39%205TB%2C%20UK&destination=8%20Abbey%20Churchyard%2C%20BATH%2C%20BA1%201LY%2C%20United%20Kingdom&travelmode=driving"
+          }
+        },
+        "column_XxfYQK": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "French Grey – Bath",
+            "text": "<p>01 BURTON STREET<\/p><p>SOMERSET<\/p><p>BATH BA1 1BN<\/p><p>United Kingdom<\/p><p><strong>Phone<\/strong>: 01225 425684<\/p><p>8.8 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/?api=1&origin=37%20Upper%20Bristol%20Rd%2C%20Clutton%2C%20Bristol%20BS39%205TB%2C%20UK&destination=01%20BURTON%20STREET%2C%20BATH%2C%20BA1%201BN%2C%20United%20Kingdom&travelmode=driving"
+          }
+        },
+        "column_JQ9ipk": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Vinegar Hill Ltd",
+            "text": "<p>16 Milsom Street<\/p><p>Somerset<\/p><p>Bath BA1 1DE<\/p><p>United Kingdom<\/p><p><strong>Phone<\/strong>: 01789 415052<\/p><p>8.8 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/?api=1&origin=37%20Upper%20Bristol%20Rd%2C%20Clutton%2C%20Bristol%20BS39%205TB%2C%20UK&destination=16%20Milsom%20Street%2C%20Bath%2C%20BA1%201DE%2C%20United%20Kingdom&travelmode=driving"
+          }
+        },
+        "column_zKyABW": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Rossiters Of Bath",
+            "text": "<p>38-41 BROAD STREET<\/p><p>SOMERSET<\/p><p>BATH BA1 5LP<\/p><p>United Kingdom<\/p><p><strong>Phone<\/strong>: 01225 462227<\/p><p>8.9 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/?api=1&origin=37%20Upper%20Bristol%20Rd%2C%20Clutton%2C%20Bristol%20BS39%205TB%2C%20UK&destination=38-41%20BROAD%20STREET%2C%20BATH%2C%20BA1%205LP%2C%20United%20Kingdom&travelmode=driving"
+          }
+        },
+        "column_arnCQF": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "The Berkeley Square Hotel",
+            "text": "<p>15 Berkeley Square<\/p><p>Bristol BS8 1HB<\/p><p>United Kingdom<\/p><p><strong>Phone<\/strong>: 0117 9254000<\/p><p><strong>Email<\/strong>: Lucy.pitman@qrter.com<\/p><p>9 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/?api=1&origin=37%20Upper%20Bristol%20Rd%2C%20Clutton%2C%20Bristol%20BS39%205TB%2C%20UK&destination=15%20Berkeley%20Square%2C%20Bristol%2C%20BS8%201HB%2C%20United%20Kingdom&travelmode=driving"
+          }
+        },
+        "column_3wzfQj": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Prior Park Garden Centre",
+            "text": "<p>PRIOR PARK ROAD<\/p><p>SOMERSET<\/p><p>BATH BA2 4NF<\/p><p>United Kingdom<\/p><p><strong>Phone<\/strong>: 01225 427175<\/p><p>9 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/?api=1&origin=37%20Upper%20Bristol%20Rd%2C%20Clutton%2C%20Bristol%20BS39%205TB%2C%20UK&destination=PRIOR%20PARK%20ROAD%2C%20BATH%2C%20BA2%204NF%2C%20United%20Kingdom&travelmode=driving"
+          }
+        },
+        "column_k3FbnR": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "A H Hale",
+            "text": "<p>8 Argyle Street<\/p><p>BATH BA2 4BQ<\/p><p>United Kingdom<\/p><p><strong>Phone<\/strong>: 01225 464429<\/p><p><strong>Email<\/strong>: Pharmacy.fq484@nhs.net<\/p><p>9 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/?api=1&origin=37%20Upper%20Bristol%20Rd%2C%20Clutton%2C%20Bristol%20BS39%205TB%2C%20UK&destination=8%20Argyle%20Street%2C%20BATH%2C%20BA2%204BQ%2C%20United%20Kingdom&travelmode=driving"
+          }
+        },
+        "column_YJPr4n": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Visit Somerset",
+            "text": "<p>Wookey Hole Caves<\/p><p>Somerset<\/p><p>Wells BA5 1BB<\/p><p>United Kingdom<\/p><p><strong>Phone<\/strong>: 07825 372850<\/p><p>9 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/?api=1&origin=37%20Upper%20Bristol%20Rd%2C%20Clutton%2C%20Bristol%20BS39%205TB%2C%20UK&destination=Wookey%20Hole%20Caves%2C%20Wells%2C%20BA5%201BB%2C%20United%20Kingdom&travelmode=driving"
+          }
+        },
+        "column_XQYjNx": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Village \/ Terrapin",
+            "text": "<p>2A Boyces Avenue<\/p><p>BRISTOL<\/p><p>Bristol BS8 4AA<\/p><p>United Kingdom<\/p><p><strong>Phone<\/strong>: 0117 974 4088<\/p><p>9.1 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/?api=1&origin=37%20Upper%20Bristol%20Rd%2C%20Clutton%2C%20Bristol%20BS39%205TB%2C%20UK&destination=2A%20Boyces%20Avenue%2C%20Bristol%2C%20BS8%204AA%2C%20United%20Kingdom&travelmode=driving"
+          }
+        },
+        "column_wt7nRQ": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Wells Cathedral Enterprises",
+            "text": "<p>Cathedral Green<\/p><p>Wells BA5 2UA<\/p><p>United Kingdom<\/p><p><strong>Phone<\/strong>: 01749 672773<\/p><p><strong>Email<\/strong>: shop@wellscathedral.org.uk<\/p><p>9.3 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/?api=1&origin=37%20Upper%20Bristol%20Rd%2C%20Clutton%2C%20Bristol%20BS39%205TB%2C%20UK&destination=Cathedral%20Green%2C%20Wells%2C%20BA5%202UA%2C%20United%20Kingdom&travelmode=driving"
+          }
+        },
+        "column_ie8MPP": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Cadeaux & Co Wells",
+            "text": "<p>5 HIGH STREET<\/p><p>SOMERSET<\/p><p>WELLS BA5 2AA<\/p><p>United Kingdom<\/p><p><strong>Phone<\/strong>: 01749 672332<\/p><p>9.4 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/?api=1&origin=37%20Upper%20Bristol%20Rd%2C%20Clutton%2C%20Bristol%20BS39%205TB%2C%20UK&destination=5%20HIGH%20STREET%2C%20WELLS%2C%20BA5%202AA%2C%20United%20Kingdom&travelmode=driving"
+          }
+        },
+        "column_9h3TgK": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Inca",
+            "text": "<p>6 CLIFTON DOWN SHOPPING CENTRE<\/p><p>BRISTOL<\/p><p>Clifton BS8 2NN<\/p><p>United Kingdom<\/p><p><strong>Phone<\/strong>: 0117 317 9758<\/p><p>9.6 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/?api=1&origin=37%20Upper%20Bristol%20Rd%2C%20Clutton%2C%20Bristol%20BS39%205TB%2C%20UK&destination=6%20CLIFTON%20DOWN%20SHOPPING%20CENTRE%2C%20Clifton%2C%20BS8%202NN%2C%20United%20Kingdom&travelmode=driving"
+          }
+        },
+        "column_iNkzbJ": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Luxe & Twine Interiors",
+            "text": "<p>10 Town Street<\/p><p>Somerset<\/p><p>Shepton Mallet BA4 5BG<\/p><p>United Kingdom<\/p><p><strong>Phone<\/strong>: 01749 938110<\/p><p>9.6 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/?api=1&origin=37%20Upper%20Bristol%20Rd%2C%20Clutton%2C%20Bristol%20BS39%205TB%2C%20UK&destination=10%20Town%20Street%2C%20Shepton%20Mallet%2C%20BA4%205BG%2C%20United%20Kingdom&travelmode=driving"
+          }
+        },
+        "column_gELtHh": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Make",
+            "text": "<p>59 Gloucester Road<\/p><p>Bristol<\/p><p>Bristol BS7 8AD<\/p><p>United Kingdom<\/p><p><strong>Phone<\/strong>: 07701 095108<\/p><p>9.9 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/?api=1&origin=37%20Upper%20Bristol%20Rd%2C%20Clutton%2C%20Bristol%20BS39%205TB%2C%20UK&destination=59%20Gloucester%20Road%2C%20Bristol%2C%20BS7%208AD%2C%20United%20Kingdom&travelmode=driving"
+          }
+        },
+        "column_PJ9Vni": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Iota Interior Accessories",
+            "text": "<p>167 GLOUCESTER RD<\/p><p>BRISTOL<\/p><p>BRISTOL BS7 8BE<\/p><p>United Kingdom<\/p><p><strong>Phone<\/strong>: 0117 924 4911<\/p><p>10.1 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/?api=1&origin=37%20Upper%20Bristol%20Rd%2C%20Clutton%2C%20Bristol%20BS39%205TB%2C%20UK&destination=167%20GLOUCESTER%20RD%2C%20BRISTOL%2C%20BS7%208BE%2C%20United%20Kingdom&travelmode=driving"
+          }
+        },
+        "column_mATERP": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Old Rowlands Christmas Shop",
+            "text": "<p>The Cliffs<\/p><p>Cheddar BS27 3QE<\/p><p>United Kingdom<\/p><p><strong>Phone<\/strong>: 07591 587904<\/p><p><strong>Email<\/strong>: sales@oldrowlands.com<\/p><p>10.2 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/37+Upper+Bristol+Rd,+Clutton,+Bristol+BS39+5TB,+UK\/The+Cliffs,+Cheddar+BS27+3QE,+UK\/@51.2907917,-2.8192251,11z\/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x487189c55f000ef1:0x19265590635fd610!2m2!1d-2.5477034!2d51.3311285!1m5!1m1!1s0x48721e7a27e6172f:0x588090c2e724cfda!2m2!1d-2.7702746!2d51.281234!3e0?entry=ttu&g_ep=EgoyMDI0MDkyNS4wIKXMDSoASAFQAw%3D%3D"
+          }
+        },
+        "column_ei46XK": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Dobbies – Shepton Mallet S039",
+            "text": "<p>Mendip Avenue<\/p><p>Somerset<\/p><p>Shepton Mallet BA4 4PE<\/p><p>United Kingdom<\/p><p><strong>Phone<\/strong>: 0131 644 3703<\/p><p>10.3 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/?api=1&origin=37%20Upper%20Bristol%20Rd%2C%20Clutton%2C%20Bristol%20BS39%205TB%2C%20UK&destination=Mendip%20Avenue%2C%20Shepton%20Mallet%2C%20BA4%204PE%2C%20United%20Kingdom&travelmode=driving"
+          }
+        },
+        "column_NXYqY4": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Farleigh Road Farm Shop & Cafe",
+            "text": "<p>Farleigh Road<\/p><p>Bath<\/p><p>Norton St Philip BA2 7NG<\/p><p>United Kingdom<\/p><p><strong>Phone<\/strong>: 01584 831360 Acc<\/p><p>10.3 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/?api=1&origin=37%20Upper%20Bristol%20Rd%2C%20Clutton%2C%20Bristol%20BS39%205TB%2C%20UK&destination=Farleigh%20Road%2C%20Norton%20St%20Philip%2C%20BA2%207NG%2C%20United%20Kingdom&travelmode=driving"
+          }
+        },
+        "column_dHj3jt": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Bailbrook House Hotel (No 2) Ltd",
+            "text": "<p>Eveleigh Avenue<\/p><p>Somerset<\/p><p>BATH BA1 7JD<\/p><p>United Kingdom<\/p><p><strong>Phone<\/strong>: 01225 855100<\/p><p>10.3 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/?api=1&origin=37%20Upper%20Bristol%20Rd%2C%20Clutton%2C%20Bristol%20BS39%205TB%2C%20UK&destination=Eveleigh%20Avenue%2C%20BATH%2C%20BA1%207JD%2C%20United%20Kingdom&travelmode=driving"
+          }
+        },
+        "column_gpm6xE": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Hillier Nurseries Ltd – Cheddar",
+            "text": "<p>Hillier Garden Centre - Cheddar<\/p><p>Somerset<\/p><p>Cheddar BS27 3RU<\/p><p>United Kingdom<\/p><p><strong>Phone<\/strong>: 01934 745200<\/p><p>10.4 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/?api=1&origin=37%20Upper%20Bristol%20Rd%2C%20Clutton%2C%20Bristol%20BS39%205TB%2C%20UK&destination=Hillier%20Garden%20Centre%20-%20Cheddar%2C%20Cheddar%2C%20BS27%203RU%2C%20United%20Kingdom&travelmode=driving"
+          }
+        },
+        "column_GeNFaD": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Merilyn @ No 21",
+            "text": "<p>21 Canford Lane<\/p><p>Bristol<\/p><p>BRISTOL BS9 3DQ<\/p><p>United Kingdom<\/p><p><strong>Phone<\/strong>: 0117 9507060<\/p><p>11.6 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/?api=1&origin=37%20Upper%20Bristol%20Rd%2C%20Clutton%2C%20Bristol%20BS39%205TB%2C%20UK&destination=21%20Canford%20Lane%2C%20BRISTOL%2C%20BS9%203DQ%2C%20United%20Kingdom&travelmode=driving"
+          }
+        },
+        "column_Mk8Npy": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Blue Diamond Ltd – Cadbury GC",
+            "text": "<p>Smallway<\/p><p>Bristol<\/p><p>Bristol BS49 5AA<\/p><p>United Kingdom<\/p><p><strong>Phone<\/strong>: 0117 9902207<\/p><p>11.7 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/?api=1&origin=37%20Upper%20Bristol%20Rd%2C%20Clutton%2C%20Bristol%20BS39%205TB%2C%20UK&destination=Smallway%2C%20Bristol%2C%20BS49%205AA%2C%20United%20Kingdom&travelmode=driving"
+          }
+        },
+        "column_fjAYUw": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Oakville Care Centre Ltd",
+            "text": "<p>3 Badcox<\/p><p>Frome BA11 3BQ<\/p><p>United Kingdom<\/p><p><strong>Phone<\/strong>: 01373 455415<\/p><p><strong>Email<\/strong>: robbielymer@oakvillecarecentre.co.uk<\/p><p>11.8 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/?api=1&origin=37%20Upper%20Bristol%20Rd%2C%20Clutton%2C%20Bristol%20BS39%205TB%2C%20UK&destination=3%20Badcox%2C%20Frome%2C%20BA11%203BQ%2C%20United%20Kingdom&travelmode=driving"
+          }
+        },
+        "column_aYrP8E": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Sawyers Retail Ltd T\/A Jude’s",
+            "text": "<p>1 Stony Street<\/p><p>Frome BA11 1BU<\/p><p>United Kingdom<\/p><p><strong>Phone<\/strong>: 07823 887043<\/p><p><strong>Email<\/strong>: sawyers.finance@gmail.com<\/p><p>12 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/?api=1&origin=37%20Upper%20Bristol%20Rd%2C%20Clutton%2C%20Bristol%20BS39%205TB%2C%20UK&destination=1%20Stony%20Street%2C%20Frome%2C%20BA11%201BU%2C%20United%20Kingdom&travelmode=driving"
+          }
+        },
+        "column_cjXxeE": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Amica",
+            "text": "<p>11\/12 CHEAP STREET<\/p><p>SOMERSET<\/p><p>FROME BA11 1BN<\/p><p>United Kingdom<\/p><p><strong>Phone<\/strong>: 01373 463639<\/p><p>12 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/?api=1&origin=37%20Upper%20Bristol%20Rd%2C%20Clutton%2C%20Bristol%20BS39%205TB%2C%20UK&destination=11%2F12%20CHEAP%20STREET%2C%20FROME%2C%20BA11%201BN%2C%20United%20Kingdom&travelmode=driving"
+          }
+        },
+        "column_Eb4EWY": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Bert’s Back Garden Ltd – Creative Crafts & Gifts",
+            "text": "<p>42A Woodborough Road<\/p><p>North Somerset<\/p><p>Winscombe BS25 1AG<\/p><p>United Kingdom<\/p><p><strong>Phone<\/strong>: 07948 516899<\/p><p>12.4 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/?api=1&origin=37%20Upper%20Bristol%20Rd%2C%20Clutton%2C%20Bristol%20BS39%205TB%2C%20UK&destination=42A%20Woodborough%20Road%2C%20Winscombe%2C%20BS25%201AG%2C%20United%20Kingdom&travelmode=driving"
+          }
+        },
+        "column_86jKV9": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Cloud & Cove",
+            "text": "<p>33 Silver Street<\/p><p>Somerset<\/p><p>Bradford on Avon BA15 1JX<\/p><p>United Kingdom<\/p><p><strong>Phone<\/strong>: 01225 868888<\/p><p>12.9 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/?api=1&origin=37%20Upper%20Bristol%20Rd%2C%20Clutton%2C%20Bristol%20BS39%205TB%2C%20UK&destination=33%20Silver%20Street%2C%20Bradford%20on%20Avon%2C%20BA15%201JX%2C%20United%20Kingdom&travelmode=driving"
+          }
+        },
+        "column_HQVpAA": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Otter Nurseries Ltd (Wincanton)",
+            "text": "<p>Bruton Road<\/p><p>Wincanton BA9 8HA<\/p><p>United Kingdom<\/p><p><strong>Phone<\/strong>: 01963 33134<\/p><p><strong>Email<\/strong>: monika.samojedny@ottergardencentres.com<\/p><p>13 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/?api=1&origin=37%20Upper%20Bristol%20Rd%2C%20Clutton%2C%20Bristol%20BS39%205TB%2C%20UK&destination=Bruton%20Road%2C%20Wincanton%2C%20BA9%208HA%2C%20United%20Kingdom&travelmode=driving"
+          }
+        },
+        "column_Dz8UYw": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Vintage Brown",
+            "text": "<p>62 High Street<\/p><p>Wiltshire<\/p><p>Marshfield SN14 8LP<\/p><p>United Kingdom<\/p><p><strong>Phone<\/strong>: 01225 891728<\/p><p>13.4 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/?api=1&origin=37%20Upper%20Bristol%20Rd%2C%20Clutton%2C%20Bristol%20BS39%205TB%2C%20UK&destination=62%20High%20Street%2C%20Marshfield%2C%20SN14%208LP%2C%20United%20Kingdom&travelmode=driving"
+          }
+        },
+        "column_zN7tTR": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Walnut & Weave – Bristol (INACTIVE)",
+            "text": "<p>162 The Mall<\/p><p>Brostol<\/p><p>Cribbs Causeway BS34 5UR<\/p><p>United Kingdom<\/p><p><strong>Phone<\/strong>: 07811 111053<\/p><p>13.6 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/?api=1&origin=37%20Upper%20Bristol%20Rd%2C%20Clutton%2C%20Bristol%20BS39%205TB%2C%20UK&destination=162%20The%20Mall%2C%20Cribbs%20Causeway%2C%20BS34%205UR%2C%20United%20Kingdom&travelmode=driving"
+          }
+        },
+        "column_xQzJAP": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Box Post Office",
+            "text": "<p>London Road<\/p><p>Corsham SN13 8NA<\/p><p>United Kingdom<\/p><p><strong>Phone<\/strong>: 01225 742221<\/p><p><strong>Email<\/strong>: Boxpostoffice@btconnect.com<\/p><p>14.5 mi<\/p>",
+            "link_label": "Directions",
+            "link": "https:\/\/www.google.com\/maps\/dir\/?api=1&origin=37%20Upper%20Bristol%20Rd%2C%20Clutton%2C%20Bristol%20BS39%205TB%2C%20UK&destination=London%20Road%2C%20Corsham%2C%20SN13%208NA%2C%20United%20Kingdom&travelmode=driving"
+          }
+        }
+      },
+      "block_order": [
+        "column_gMw8Q8",
+        "column_kj47yd",
+        "column_PTqYhz",
+        "column_Y9QAwb",
+        "column_q9eNfN",
+        "column_9AdRF6",
+        "column_whQ8wt",
+        "column_3EUWj6",
+        "column_XMLBfU",
+        "column_N7mL4T",
+        "column_8667kN",
+        "column_nBtMyh",
+        "column_gFtD9K",
+        "column_d3A9UT",
+        "column_fhUwby",
+        "column_HTdk7G",
+        "column_bkripr",
+        "column_fiiWVy",
+        "column_xYqRzc",
+        "column_XPXkUr",
+        "column_XxfYQK",
+        "column_JQ9ipk",
+        "column_zKyABW",
+        "column_arnCQF",
+        "column_3wzfQj",
+        "column_k3FbnR",
+        "column_YJPr4n",
+        "column_XQYjNx",
+        "column_wt7nRQ",
+        "column_ie8MPP",
+        "column_9h3TgK",
+        "column_iNkzbJ",
+        "column_gELtHh",
+        "column_PJ9Vni",
+        "column_mATERP",
+        "column_ei46XK",
+        "column_NXYqY4",
+        "column_dHj3jt",
+        "column_gpm6xE",
+        "column_GeNFaD",
+        "column_Mk8Npy",
+        "column_fjAYUw",
+        "column_aYrP8E",
+        "column_cjXxeE",
+        "column_Eb4EWY",
+        "column_86jKV9",
+        "column_HQVpAA",
+        "column_Dz8UYw",
+        "column_zN7tTR",
+        "column_xQzJAP"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_left": false,
+        "description": "",
+        "full_width": true,
+        "display_type": "grid",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "text_alignment": "left",
+        "heading_size": "h5",
+        "mobile_swipe": false,
+        "show_progress_bar": true,
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "rich_text_6AX4GK": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_NRj9ib": {
+          "type": "heading",
+          "settings": {
+            "text": "Becoming a Stockist",
+            "size": "h3"
+          }
+        },
+        "text_XVdanr": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you would like to become a UK stockist, this is the type of information we would need to discuss:<\/p><p>• Your Location<br\/>• Minimum order quantities & delivery costs<br\/>• Payment terms including credit application<\/p><p>Once you have considered the above, please get in touch using the links below.<\/p>",
+            "custom_liquid": "",
+            "size": "text-size-regular"
+          }
+        },
+        "button_UAfkey": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "link_label": "UK Trade Enquiries",
+            "link": "mailto:uk@tstcglobal.com",
+            "button_outline": false
+          }
+        },
+        "button_QK8VPC": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "link_label": "International Trade Enquiries",
+            "link": "mailto:export@tstcglobal.com",
+            "button_outline": false
+          }
+        },
+        "button_6Wh3kN": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "link_label": "USA Trade Enquiries",
+            "link": "mailto:ucscustomerservice@uppercanadasoap.com",
+            "button_outline": false
+          }
+        },
+        "custom_button_block_JCiyhC": {
+          "type": "custom_button_block",
+          "settings": {
+            "custom_button_image": "shopify:\/\/shop_images\/the-somerset-toiletry-company-email-icon-03_4cb86537-a9b3-4410-925e-d3224a8c3246.svg",
+            "custom_button_text": "<h4>UK Trade Enquiries<\/h4><p><a href=\"mailto:uk@tstcglobal.com\">uk@tstcglobal.com<\/a><\/p>"
+          }
+        },
+        "custom_button_block_pxkprT": {
+          "type": "custom_button_block",
+          "settings": {
+            "custom_button_image": "shopify:\/\/shop_images\/the-somerset-toiletry-company-email-icon-03_4cb86537-a9b3-4410-925e-d3224a8c3246.svg",
+            "custom_button_text": "<h4>International Trade Enquiries<\/h4><p><a href=\"mailto:export@tstcglobal.com\">export@tstcglobal.com<\/a><\/p>"
+          }
+        },
+        "custom_button_block_VNCyq4": {
+          "type": "custom_button_block",
+          "settings": {
+            "custom_button_image": "shopify:\/\/shop_images\/the-somerset-toiletry-company-email-icon-03_4cb86537-a9b3-4410-925e-d3224a8c3246.svg",
+            "custom_button_text": "<h4>USA Trade Enquiries<\/h4><p><a href=\"mailto:ucscustomerservice@uppercanadasoap.com\">ucscustomerservice<\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_NRj9ib",
+        "text_XVdanr",
+        "button_UAfkey",
+        "button_QK8VPC",
+        "button_6Wh3kN",
+        "custom_button_block_JCiyhC",
+        "custom_button_block_pxkprT",
+        "custom_button_block_VNCyq4"
+      ],
+      "settings": {
+        "section_width": "grid",
+        "text_width": "xlarge",
+        "text_position": "center",
+        "text_alignment": "center",
+        "color_bg": "rgba(0,0,0,0)",
+        "color_text": "#263349",
+        "color_links": "#151515",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_dpAQqM",
+    "multicolumn_YaCqr6",
+    "rich_text_6AX4GK"
+  ]
+}

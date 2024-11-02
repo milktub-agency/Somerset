@@ -1,0 +1,108 @@
+{
+  "sections": {
+    "rich_text_z8Drq6": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_QBNATm": {
+          "type": "subheading",
+          "settings": {
+            "text": "Join Us"
+          }
+        },
+        "text_GTXFbC": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Are you looking for a challenging and rewarding career? If so, we encourage you to apply for our current positions.<\/p>",
+            "custom_liquid": "",
+            "size": "text-size-regular"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_QBNATm",
+        "text_GTXFbC"
+      ],
+      "settings": {
+        "section_width": "grid",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "color_bg": "#263349",
+        "color_text": "#ffffff",
+        "color_links": "#151515",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "rich_text_gy6yHH": {
+      "type": "rich-text",
+      "blocks": {
+        "text_bAXaXE": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Sorry, no positions right now! <\/p>",
+            "custom_liquid": "",
+            "size": "text-size-regular"
+          }
+        }
+      },
+      "block_order": [
+        "text_bAXaXE"
+      ],
+      "settings": {
+        "section_width": "grid",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "color_bg": "transparent",
+        "color_text": "#263349",
+        "color_links": "#151515",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": true
+      }
+    },
+    "layered_images_with_text_NfAtwT": {
+      "type": "layered-images-with-text",
+      "blocks": {
+        "text_ixMFLq": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We are a friendly team of designers, perfumers, sales, admin and financial people who love our work and continually strive for excellence. Although an international company, our office in Clutton retains a small and welcoming feel. In 2020 we moved into quirky premises which allowed us to incorporate a gift shop and open the Soap Bar Café (we bake our own delicious cakes on site!).<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_ixMFLq"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1.jpg",
+        "image_ratio": "adapt",
+        "image_2": "shopify:\/\/shop_images\/3_4a5739c9-beee-4b9f-99f7-1c0df5a7e089.jpg",
+        "image_ratio_2": "adapt",
+        "image_3": "shopify:\/\/shop_images\/2.jpg",
+        "image_ratio_3": "adapt",
+        "full_width": false,
+        "layout": "text_first",
+        "content_alignment": "text-left",
+        "content_position": "middle",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": false,
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    }
+  },
+  "order": [
+    "rich_text_z8Drq6",
+    "rich_text_gy6yHH",
+    "layered_images_with_text_NfAtwT",
+    "main"
+  ]
+}

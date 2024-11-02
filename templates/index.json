@@ -1,0 +1,616 @@
+{
+  "sections": {
+    "16479477632637c9a7": {
+      "type": "slideshow",
+      "blocks": {
+        "164794776393e76b8e-2": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/the_somerset_toiletry_co_white_pumpkin_and_sage.jpg",
+            "slide_link": "",
+            "video_background": false,
+            "video": "",
+            "subheading": "New Arrivals",
+            "heading": "Autumn Essentials",
+            "heading_size": "h1-xlarge",
+            "content": "Capture the essence of Autumn with nourishing ingredients and warm, inviting scents of the season.",
+            "description_size": "large",
+            "content_position": "middle-left",
+            "text_alignment": "left",
+            "content_size": "medium",
+            "overlay_color": "#000000",
+            "overlay_opacity": 48,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.4) 100%)",
+            "button_1_text": "SHOP Now",
+            "button_1_link": "shopify:\/\/collections\/new-arrivals",
+            "button_1_outline": true,
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_outline": false
+          }
+        }
+      },
+      "block_order": [
+        "164794776393e76b8e-2"
+      ],
+      "settings": {
+        "desktop_height": "desktop-height-auto",
+        "mobile_height": "mobile-height-500",
+        "full_width": true,
+        "autoplay": true,
+        "autoplay_length": 10,
+        "transition": "swipe",
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
+      }
+    },
+    "rich_text_d7debd": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_FwtVKf": {
+          "type": "heading",
+          "settings": {
+            "text": "As an independent British brand, we're proud to have been passionately creating scented gifts since 1999.",
+            "size": "h4"
+          }
+        }
+      },
+      "block_order": [
+        "heading_FwtVKf"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_width": "full-width-row-full",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "center",
+        "color_bg": "#e9e9e9",
+        "color_text": "#263349",
+        "color_links": "#151515",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "collection_list_QMt7fF": {
+      "type": "collection-list",
+      "settings": {
+        "heading": "Trending Categories",
+        "heading_left": false,
+        "description": "",
+        "full_width": true,
+        "collection_list": [
+          "hand-wash",
+          "body-lotion",
+          "soap",
+          "room-diffusers"
+        ],
+        "image_ratio": "square",
+        "layout": "carousel",
+        "style": "style1",
+        "columns_desktop": 4,
+        "columns_mobile": "2",
+        "show_progress_bar": false,
+        "mobile_swipe": true,
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "spacer_zNPXpB": {
+      "type": "spacer",
+      "disabled": true,
+      "settings": {
+        "spacer_mobile": 50,
+        "spacer_desktop": 50,
+        "border_separator": false,
+        "border_separator_full": false
+      }
+    },
+    "multicolumn_MGQX3P": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_exUin3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/the-somerset-toiletry-co-against-animal-testing_814x_crop_center_1.svg",
+            "image_full_width": false,
+            "retina": false,
+            "title": "Against Animal Testing",
+            "text": "<p>We are against animal testing and test products in-house. Our products are 100% vegetarian and over 95% are vegan-friendly.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Pz7MgE": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/the-somerset-toiletry-co-scent-experts_2_1.svg",
+            "image_full_width": false,
+            "retina": false,
+            "title": "Scent Experts",
+            "text": "<p>With over thirty years’ experience in sniffing out the best in fragrance and aromatherapy, scents are at the heart of everything we do.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_rqhhNM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/the-somerset-toiletry-co-eco-friendly-logo_814x_crop_center_2.svg",
+            "image_full_width": false,
+            "retina": false,
+            "title": "Eco- Friendly Packaging",
+            "text": "<p>We are continually improving our packaging by reducing wastage and using recycled materials where possible.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_exUin3",
+        "column_Pz7MgE",
+        "column_rqhhNM"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_left": false,
+        "description": "",
+        "full_width": false,
+        "display_type": "carousel",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "text_alignment": "center",
+        "heading_size": "h5",
+        "mobile_swipe": true,
+        "show_progress_bar": true,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
+      }
+    },
+    "featured_product_EFAPdN": {
+      "type": "featured-product",
+      "blocks": {
+        "title_RdU8ct": {
+          "type": "title",
+          "settings": {
+            "uppercase": true,
+            "show_products_rating": true
+          }
+        },
+        "description_RMRn6B": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "variant_picker_4LdqEU": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "color_picker": true,
+            "color_picker_size": "regular",
+            "color_picker_use_variants": false,
+            "variant_is_disabled": true,
+            "sizing_guide_variant": "Size",
+            "sizing_guide_text": "Sizing guide",
+            "sizing_guide_icon": "ruler",
+            "sizing_guide_page": ""
+          }
+        },
+        "buy_buttons_VF3ADJ": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "show_dynamic_checkout": true
+          }
+        }
+      },
+      "block_order": [
+        "title_RdU8ct",
+        "description_RMRn6B",
+        "variant_picker_4LdqEU",
+        "buy_buttons_VF3ADJ"
+      ],
+      "settings": {
+        "heading": "Offer of the Week",
+        "heading_left": false,
+        "description": "",
+        "full_width": false,
+        "product": "h2eau-ceramic-electric-diffuser",
+        "show_taxes_included": false,
+        "enable_sticky_info": false,
+        "media_aspect_ratio": "adapt",
+        "display_captions": false,
+        "lightbox": false,
+        "enable_video_looping": false,
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": true
+      }
+    },
+    "spacer_KfarPN": {
+      "type": "spacer",
+      "settings": {
+        "spacer_mobile": 50,
+        "spacer_desktop": 65,
+        "border_separator": false,
+        "border_separator_full": false
+      }
+    },
+    "166366563622039b3e": {
+      "type": "featured-collection",
+      "custom_css": [
+        ".product-card-vendor a {display: none;}"
+      ],
+      "settings": {
+        "heading": "Best Sellers",
+        "heading_left": false,
+        "description": "<p>Discover our most popular and highly-rated products.<\/p>",
+        "full_width": true,
+        "collection": "best-sellers",
+        "display_type": "carousel",
+        "product_limit": 4,
+        "columns_desktop": 4,
+        "show_view_all": true,
+        "mobile_swipe": true,
+        "show_progress_bar": false,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": false
+      }
+    },
+    "16624658277b7c3abc": {
+      "type": "countdown-banner",
+      "disabled": true,
+      "settings": {
+        "section_width": "full-width-row-full",
+        "section_layout": "horizontal",
+        "desktop_height": "desktop-height-auto",
+        "mobile_height": "mobile-height-auto",
+        "subheading": "",
+        "heading": "Midseason Sale Ends",
+        "heading_size": "h2",
+        "content": "",
+        "content_size": "medium",
+        "button_text": "Shop Now",
+        "button_link": "",
+        "timer_year": 2024,
+        "timer_month": "08",
+        "timer_day": "01",
+        "timer_hour": "00",
+        "timer_minute": "00",
+        "color_bg": "#9592af",
+        "color_text": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "17219749625868bd20": {
+      "type": "apps",
+      "blocks": {
+        "reviews_io_reviewsio_card_carousel_Pa7DMx": {
+          "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-card-carousel\/92a082e5-b297-4e88-b428-ac96cbc505f9",
+          "settings": {
+            "star": "#000000",
+            "review_type": "company, product",
+            "reviews_shown": 20,
+            "header_bg_colour": "#000000",
+            "header_colour": "#ffffff",
+            "header_star_colour": "#ffffff",
+            "heading_text_colour": "#0e1311",
+            "heading_font": "helvetica_n4",
+            "body_text_colour": "#0e1311",
+            "badge_icon_colour": "#0e1311",
+            "badge_text_colour": "#0e1311",
+            "bg_start_colour": "#ffffff",
+            "bg_end_colour": "#ffffff",
+            "item_border_width": "0px",
+            "item_border_colour": "#000000",
+            "item_border_radius": "0px",
+            "item_shadow_size": "10px",
+            "item_shadow_colour": "#000000",
+            "enable_rich_snippets": false,
+            "disable_same_customer": false,
+            "logo_colour": "var(--logo-inverted)"
+          }
+        }
+      },
+      "block_order": [
+        "reviews_io_reviewsio_card_carousel_Pa7DMx"
+      ],
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "custom_liquid_pwEkLF": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<script src=\"https:\/\/widget.reviews.io\/carousel-inline-iframeless\/dist.js?_t=2024101707\"><\/script>\n<link rel=\"stylesheet\" href=\"https:\/\/assets.reviews.io\/css\/widgets\/carousel-widget.css?_t=2024101707\">\n<link rel=\"stylesheet\" href=\"https:\/\/assets.reviews.io\/iconfont\/reviewsio-icons\/style.css?_t=2024101707\">\n<div id=\"reviewsio-carousel-widget\"><\/div>\n<script>\n\nnew carouselInlineWidget('reviewsio-carousel-widget',{\n      \/*Your REVIEWS.io account ID:*\/\n      store: 'thesomersettoiletryco-co-uk',\n      sku: '',\n      lang: 'en',\n      carousel_type: 'default',\n      styles_carousel: 'CarouselWidget--sideHeader--withcards',\n\n      \/*Widget settings:*\/\n      options:{\n        general:{\n          \/*What reviews should the widget display? Available options: company, product, third_party. You can choose one type or multiple separated by comma.*\/\n          review_type: 'company, product',\n          \/*Minimum number of reviews required for widget to be displayed*\/\n          min_reviews: '1',\n          \/*Maximum number of reviews to include in the carousel widget.*\/\n          max_reviews: '20',\n          address_format: 'CITY, COUNTRY',\n          \/*Carousel auto-scrolling speed. 3000 = 3 seconds. If you want to disable auto-scroll, set this value to false.*\/\n          enable_auto_scroll: 10000,\n        },\n        header:{\n          \/*Show overall rating stars*\/\n          enable_overall_stars: true,\n          rating_decimal_places: 2,\n        },\n        reviews: {\n          \/*Show customer name*\/\n          enable_customer_name: true,\n          \/*Show customer location*\/\n          enable_customer_location: true,\n          \/*Show \"verified review\" badge*\/\n          enable_verified_badge: true,\n          \/*Show \"verified subscriber\" badge*\/\n          enable_subscriber_badge: true,\n          \/*Show \"I recommend this product\" badge (Only for product reviews)*\/\n          enable_recommends_badge: true,\n          \/*Show photos attached to reviews*\/\n          enable_photos: true,\n          \/*Show videos attached to reviews*\/\n          enable_videos: true,\n          \/*Show when review was written*\/\n          enable_review_date: true,\n          \/*Hide reviews written by the same customer (This may occur when customer reviews multiple products)*\/\n          disable_same_customer: true,\n          \/*Minimum star rating*\/\n          min_review_percent: 4,\n          \/*Show 3rd party review source*\/\n          third_party_source: true,\n          \/*Hide reviews without comments (still shows if review has a photo)*\/\n          hide_empty_reviews: true,\n          \/*Show product name*\/\n          enable_product_name: true,\n          \/*Show only reviews which have specific tags (multiple semicolon separated tags allowed i.e tag1;tag2)*\/\n          tags: \"\",\n          \/*Show branch, only one input*\/\n          branch: \"\",\n          enable_branch_name: false,\n        },\n        popups: {\n          \/*Make review items clickable (When they are clicked, a popup appears with more information about a customer and review)*\/\n          enable_review_popups:  true,\n          \/*Show \"was this review helpful\" buttons*\/\n          enable_helpful_buttons: true,\n          \/*Show how many times review was upvoted as helpful*\/\n          enable_helpful_count: true,\n          \/*Show share buttons*\/\n          enable_share_buttons: true,\n        },\n    },\n    translations: {\n      verified_customer:  \"Verified Customer\",\n    },\n    styles:{\n      \/*Base font size is a reference size for all text elements. When base value gets changed, all TextHeading and TexBody elements get proportionally adjusted.*\/\n      '--base-font-size': '16px',\n      '--base-maxwidth':'100%',\n\n      \/*Logo styles:*\/\n      '--reviewsio-logo-style':'var(--logo-inverted)',\n\n      \/*Star styles:*\/\n      '--common-star-color':' #0E1311',\n      '--common-star-disabled-color':' rgba(0,0,0,0.25)',\n      '--medium-star-size':' 22px',\n      '--small-star-size':'19px', \/*Modal*\/\n      '--x-small-star-size':'16px',\n      '--x-small-star-display':'inline-flex',\n\n      \/*Header styles:*\/\n      '--header-order':'1',\n      '--header-width':'280px',\n      '--header-bg-start-color':'#0E1311',\n      '--header-bg-end-color':'#0E1311',\n      '--header-gradient-direction':'135deg',\n      '--header-padding':'1.5em',\n      '--header-border-width':'0px',\n      '--header-border-color':'rgba(0,0,0,0.1)',\n      '--header-border-radius':'0px',\n      '--header-shadow-size':'10px',\n      '--header-shadow-color':'rgba(0, 0, 0, 0.05)',\n\n      \/*Header content styles:*\/\n      '--header-star-color':'#ffffff',\n      '--header-disabled-star-color':'inherit',\n      '--header-heading-text-color':'#ffffff',\n      '--header-heading-font-size':'inherit',\n      '--header-heading-font-weight':'inherit',\n      '--header-heading-line-height':'inherit',\n      '--header-heading-text-transform':'inherit',\n      '--header-subheading-text-color':'#ffffff',\n      '--header-subheading-font-size':'inherit',\n      '--header-subheading-font-weight':'300',\n      '--header-subheading-line-height':'inherit',\n      '--header-subheading-text-transform':'inherit',\n\n      \/*Review item styles:*\/\n      '--item-maximum-columns':'5',\/*Must be 3 or larger*\/\n      '--item-background-start-color':'#ffffff',\n      '--item-background-end-color':'#ffffff',\n      '--item-gradient-direction':'135deg',\n      '--item-padding':'1.5em',\n      '--item-border-width':'0px',\n      '--item-border-color':'rgba(0,0,0,0.1)',\n      '--item-border-radius':'0px',\n      '--item-shadow-size':'10px',\n      '--item-shadow-color':'rgba(0,0,0,0.05)',\n\n      \/*Heading styles:*\/\n      '--heading-text-color':' #0E1311',\n      '--heading-text-font-weight':' 600',\n      '--heading-text-font-family':' inherit',\n      '--heading-text-line-height':' 1.4',\n      '--heading-text-letter-spacing':'0',\n      '--heading-text-transform':'none',\n\n      \/*Body text styles:*\/\n      '--body-text-color':' #0E1311',\n      '--body-text-font-weight':'400',\n      '--body-text-font-family':' inherit',\n      '--body-text-line-height':' 1.4',\n      '--body-text-letter-spacing':'0',\n      '--body-text-transform':'none',\n\n      \/*Scroll button styles:*\/\n      '--scroll-button-icon-color':'#0E1311',\n      '--scroll-button-icon-size':'24px',\n      '--scroll-button-bg-color':'transparent',\n\n      '--scroll-button-border-width':'0px',\n      '--scroll-button-border-color':'rgba(0,0,0,0.1)',\n\n      '--scroll-button-border-radius':'60px',\n      '--scroll-button-shadow-size':'0px',\n      '--scroll-button-shadow-color':'rgba(0,0,0,0.1)',\n      '--scroll-button-horizontal-position':'3px',\n      '--scroll-button-vertical-position':'0px',\n\n      \/*Badge styles:*\/\n      '--badge-icon-color':'#0E1311',\n      '--badge-icon-font-size':'15px',\n      '--badge-text-color':'#0E1311',\n      '--badge-text-font-size':'inherit',\n      '--badge-text-letter-spacing':'inherit',\n      '--badge-text-transform':'inherit',\n\n      \/*Author styles:*\/\n      '--author-font-size':'inherit',\n      '--author-font-weight':'inherit',\n      '--author-text-transform':'inherit',\n\n      \/*Product photo or review photo styles:*\/\n      '--photo-video-thumbnail-size':'60px',\n      '--photo-video-thumbnail-border-radius':'0px',\n\n      \/*Popup styles:*\/\n      '--popup-backdrop-color':'rgba(0,0,0,0.75)',\n      '--popup-color':'#ffffff',\n      '--popup-star-color':'inherit',\n      '--popup-disabled-star-color':'inherit',\n      '--popup-heading-text-color':'inherit',\n      '--popup-body-text-color':'inherit',\n      '--popup-badge-icon-color':'inherit',\n      '--popup-badge-icon-font-size':'19px',\n      '--popup-badge-text-color':'inherit',\n      '--popup-badge-text-font-size':'14px',\n      '--popup-border-width':'0px',\n      '--popup-border-color':'rgba(0,0,0,0.1)',\n      '--popup-border-radius':'0px',\n      '--popup-shadow-size':'0px',\n      '--popup-shadow-color':'rgba(0,0,0,0.1)',\n      '--popup-icon-color':'#0E1311',\n\n      \/*Tooltip styles:*\/\n      '--tooltip-bg-color':'#0E1311',\n      '--tooltip-text-color':'#ffffff',\n    },\n});\n\n<\/script>"
+      }
+    },
+    "image_with_text_KjnCVL": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_KmDKge": {
+          "type": "subheading",
+          "settings": {
+            "text": "Welcome to"
+          }
+        },
+        "heading_HzFGKB": {
+          "type": "heading",
+          "settings": {
+            "text": "The Somerset Toiletry Co.",
+            "heading_size": "h4"
+          }
+        },
+        "text_VGdyzM": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Founded in 1999 as a small family business, we have grown to offer award-winning body care and home fragrance products worldwide. Our headquarters are based in the village of Clutton, North Somerset, where we proudly share the space with our favourite charity, BillyChip. We’d love for you to visit our Soap Bar Café and Gift Shop—come by and discover more! <\/p>",
+            "description_size": "medium"
+          }
+        },
+        "button_qejHyN": {
+          "type": "button",
+          "settings": {
+            "button_text": "About Us",
+            "button_link": "shopify:\/\/pages\/about-us"
+          }
+        },
+        "text_9PNGW3": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<h5>The Soap Bar Café<\/h5><p>Visiting: <a href=\"https:\/\/thesomersettoiletryco.co.uk\/the-soap-bar-cafe\/\">The Soap Bar Café<\/a><br\/>Tel: <a href=\"tel:01761450060\">01761 450 060<\/a><br\/>Email: <a href=\"mailto:soapbarcafe@tstcglobal.com\">The Soap Bar Café<\/a><\/p>",
+            "description_size": "small"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_KmDKge",
+        "heading_HzFGKB",
+        "text_VGdyzM",
+        "button_qejHyN",
+        "text_9PNGW3"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1.jpg",
+        "use_video": false,
+        "video": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video_autoplay": true,
+        "video_controls": true,
+        "height": "large",
+        "desktop_image_width": "large",
+        "section_width": "full-width-row",
+        "layout": "image_first",
+        "content_position": "text-left",
+        "color_bg": "#263349",
+        "color_text": "#ffffff",
+        "color_border": "#e2e2e2",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": true
+      }
+    },
+    "1647955648d6a0baee": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "Read the Blog",
+        "heading_left": false,
+        "description": "<p>Find out about our latest products and take a look behind the scenes.<\/p>",
+        "full_width": true,
+        "blog": "blog",
+        "post_limit": 4,
+        "columns_desktop": 4,
+        "mobile_swipe": true,
+        "image_ratio": "landscape",
+        "show_date": true,
+        "show_excerpt": false,
+        "show_view_all": true,
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": true
+      }
+    },
+    "rich_text_jzMLzq": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_k9mLJC": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_R34rKB": {
+          "type": "heading",
+          "settings": {
+            "text": "Private Brands",
+            "size": "h3"
+          }
+        },
+        "text_jNibnm": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We design and develop a wide range of products and brands for companies around the globe, including Asquith & Somerset, Penningtons, Milton & Drew, and Addison & Gates.<\/p>",
+            "custom_liquid": "",
+            "size": "text-size-small"
+          }
+        },
+        "button_ad4B8b": {
+          "type": "button",
+          "settings": {
+            "link_label": "Learn More",
+            "link": "shopify:\/\/pages\/private-brands",
+            "button_outline": false
+          }
+        }
+      },
+      "block_order": [
+        "subheading_k9mLJC",
+        "heading_R34rKB",
+        "text_jNibnm",
+        "button_ad4B8b"
+      ],
+      "settings": {
+        "section_width": "full-width-row-full",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "center",
+        "color_bg": "#e9e9e9",
+        "color_text": "#151515",
+        "color_links": "#151515",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "rich_text_yeahPM": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_CcWLTj": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading for this section"
+          }
+        },
+        "heading_XxK7nL": {
+          "type": "heading",
+          "settings": {
+            "text": "Follow our Socials",
+            "size": "h3"
+          }
+        },
+        "text_iiggMy": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Stay up to date with what's going on in Somerset!<\/p>",
+            "custom_liquid": "",
+            "size": "text-size-regular"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_CcWLTj",
+        "heading_XxK7nL",
+        "text_iiggMy"
+      ],
+      "settings": {
+        "section_width": "grid",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "color_bg": "rgba(0,0,0,0)",
+        "color_text": "#263349",
+        "color_links": "#151515",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": true
+      }
+    },
+    "1662459246bd099bb7": {
+      "type": "spacer",
+      "disabled": true,
+      "settings": {
+        "spacer_mobile": 15,
+        "spacer_desktop": 50,
+        "border_separator": true,
+        "border_separator_full": true
+      }
+    },
+    "172197477439e2c39c": {
+      "type": "apps",
+      "blocks": {
+        "instafeed_app_block_Fejwqd": {
+          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "title": "",
+            "title_color": "#ffffff",
+            "alignment": "center",
+            "margin_top": 5,
+            "margin_bottom": 5,
+            "background_color": "",
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "instafeed_app_block_Fejwqd"
+      ],
+      "settings": {
+      }
+    },
+    "16620983071df6eb29": {
+      "type": "text-with-icons",
+      "blocks": {
+        "1662098307788ca717-0": {
+          "type": "icon",
+          "settings": {
+            "icon": "chat_bubble",
+            "heading": "Customer Support",
+            "text": "<p>Mon-Fri 9-5<\/p>"
+          }
+        },
+        "1662098307788ca717-1": {
+          "type": "icon",
+          "settings": {
+            "icon": "truck",
+            "heading": "Free UK Delivery",
+            "text": "<p>Orders over £35<\/p>"
+          }
+        },
+        "1662098307788ca717-2": {
+          "type": "icon",
+          "settings": {
+            "icon": "stopwatch",
+            "heading": "Next Day Delivery",
+            "text": "<p>Before noon Mon-Thu<\/p>"
+          }
+        },
+        "2c4a636c-cb89-4faf-82e6-13a0e7241006": {
+          "type": "icon",
+          "settings": {
+            "icon": "return",
+            "heading": "Returns Accepted",
+            "text": "<p>Within 30 days<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1662098307788ca717-0",
+        "1662098307788ca717-1",
+        "1662098307788ca717-2",
+        "2c4a636c-cb89-4faf-82e6-13a0e7241006"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "icon_position": "left",
+        "icon_size": "large",
+        "heading_size": "medium",
+        "mobile_swipe": true,
+        "color_bg": "#ffffff",
+        "color_heading": "#151515",
+        "color_text": "#151515",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    }
+  },
+  "order": [
+    "16479477632637c9a7",
+    "rich_text_d7debd",
+    "collection_list_QMt7fF",
+    "spacer_zNPXpB",
+    "multicolumn_MGQX3P",
+    "featured_product_EFAPdN",
+    "spacer_KfarPN",
+    "166366563622039b3e",
+    "16624658277b7c3abc",
+    "17219749625868bd20",
+    "custom_liquid_pwEkLF",
+    "image_with_text_KjnCVL",
+    "1647955648d6a0baee",
+    "rich_text_jzMLzq",
+    "rich_text_yeahPM",
+    "1662459246bd099bb7",
+    "172197477439e2c39c",
+    "16620983071df6eb29"
+  ]
+}
