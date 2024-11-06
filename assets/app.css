@@ -3933,3 +3933,20 @@ input[type="radio"], .field label, .custom-checkbox[type="checkbox"], .custom-ch
         padding: 0 50px;
     }
 }
+
+.page-width {
+  padding: 0 15px;
+}
+@media only screen and (min-width: 768px) {
+  .page-width {
+    padding: 0 50px;
+  }
+}
+.loading {
+  display: none;
+  text-align: center;
+  margin-top: 20px;
+}
+.loading.visible {
+  display: block;
+}

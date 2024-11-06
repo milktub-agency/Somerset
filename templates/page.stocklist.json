@@ -641,6 +641,7 @@
         "column_zN7tTR",
         "column_xQzJAP"
       ],
+      "disabled": true,
       "settings": {
         "heading": "",
         "heading_left": false,
@@ -655,6 +656,19 @@
         "show_progress_bar": true,
         "disable_top_spacing": false,
         "disable_bottom_spacing": false
+      }
+    },
+    "store_list_gsheet_MWmi4K": {
+      "type": "store-list-gsheet",
+      "settings": {
+        "heading": "",
+        "description": "",
+        "bg_color": "#ffffff",
+        "text_color": "#263349",
+        "section_padding_top": 44,
+        "section_padding_bottom": 44,
+        "mobile_padding_top": 48,
+        "mobile_padding_bottom": 48
       }
     },
     "rich_text_6AX4GK": {
@@ -751,6 +765,7 @@
     "main",
     "rich_text_dpAQqM",
     "multicolumn_YaCqr6",
+    "store_list_gsheet_MWmi4K",
     "rich_text_6AX4GK"
   ]
 }
