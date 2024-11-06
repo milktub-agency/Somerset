@@ -1215,18 +1215,11 @@ document.addEventListener('DOMContentLoaded', () => {
 class GoogleSheetStocklist extends HTMLElement {
   constructor() {
     super();
-    this.apiKey = 'AIzaSyAlMLzJhbzGL9b_w3VOa43C3MIG3u3rYjw';
-    this.sheetId = '1C0RcxqT6jsdq5nXwLuVcszNJ5M8ONywCTStvGvI7klk';
-    this.range = 'Sheet1';
+    this.apiKey = this.dataset.apiKey;
+    this.sheetId = this.dataset.sheetId;
+    this.range = this.dataset.range || 'Sheet1';
     this.url = `https://sheets.googleapis.com/v4/spreadsheets/${this.sheetId}/values/${this.range}?key=${this.apiKey}`;
     this.allRows = [];
-    this.chunkSize = 10;
-    this.currentIndex = 0;
-    this.observer = new IntersectionObserver(entries => this.onIntersect(entries), {
-      root: null,
-      rootMargin: "0px",
-      threshold: 1
-    });
   }
   connectedCallback() {
     this.innerHTML = `
@@ -1234,9 +1227,6 @@ class GoogleSheetStocklist extends HTMLElement {
       <div id="loading" class="loading">Loading...</div>
     `;
     this.fetchAndInitializeData();
-  }
-  disconnectedCallback() {
-    this.observer.disconnect();
   }
   async fetchAndInitializeData() {
     try {
@@ -1249,19 +1239,11 @@ class GoogleSheetStocklist extends HTMLElement {
         return;
       }
       this.allRows = data.values.slice(1);
-      this.loadNextChunk();
+      this.renderCards(this.allRows);
     } catch (error) {
       this.showLoading(false);
       console.error('Error fetching Google Sheets data:', error);
     }
-  }
-  loadNextChunk() {
-    this.showLoading(true);
-    const nextChunk = this.allRows.slice(this.currentIndex, this.currentIndex + this.chunkSize);
-    this.renderCards(nextChunk);
-    this.currentIndex += this.chunkSize;
-    this.showLoading(false);
-    this.observeLastCard();
   }
   renderCards(rows) {
     const sheetDataDiv = this.querySelector("#sheetData");
@@ -1297,21 +1279,6 @@ class GoogleSheetStocklist extends HTMLElement {
     }).filter(content => content).join('');
     card.innerHTML = cardContent;
     return card;
-  }
-  observeLastCard() {
-    const sheetDataDiv = this.querySelector("#sheetData");
-    const lastCard = sheetDataDiv.lastElementChild;
-    if (lastCard) {
-      this.observer.observe(lastCard);
-    }
-  }
-  onIntersect(entries) {
-    entries.forEach(entry => {
-      if (entry.isIntersecting && this.currentIndex < this.allRows.length) {
-        this.observer.unobserve(entry.target);
-        this.loadNextChunk();
-      }
-    });
   }
   showLoading(isLoading) {
     const loadingDiv = this.querySelector("#loading");

@@ -23,7 +23,11 @@
 <div class="page-width store-list padding-{{ section.id }}">
   <h3 class="heading">{{ section.settings.heading }}</h3>
   <p class="desc">{{ section.settings.description | strip_html }}</p>
-  <google-sheet-stocklist></google-sheet-stocklist>
+  <google-sheet-stocklist
+    data-api-key="{{ section.settings.api_key }}"
+    data-sheet-id="{{ section.settings.sheet_id }}"
+    data-range="{{ section.settings.sheet_range }}">
+  </google-sheet-stocklist>
 </div>
 
 {% schema %}
@@ -41,6 +45,27 @@
           "type": "richtext",
           "id": "description",
           "label": "Description"
+        },
+        {
+          "type": "header",
+          "content": "Google Sheet details"
+        },
+        {
+          "type": "text",
+          "id": "api_key",
+          "label": "API Key"
+        },
+        {
+          "type": "text",
+          "id": "sheet_id",
+          "label": "Sheet Id",
+          "info": "It will be available in the google sheet url"
+        },
+        {
+          "type": "text",
+          "id": "sheet_range",
+          "label": "Sheet range",
+          "info": "Example: Sheet1"
         },
         {
           "type": "header",
