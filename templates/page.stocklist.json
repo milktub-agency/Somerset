@@ -641,6 +641,7 @@
         "column_zN7tTR",
         "column_xQzJAP"
       ],
+      "disabled": true,
       "settings": {
         "heading": "",
         "heading_left": false,
@@ -655,6 +656,22 @@
         "show_progress_bar": true,
         "disable_top_spacing": false,
         "disable_bottom_spacing": false
+      }
+    },
+    "store_list_gsheet_MWmi4K": {
+      "type": "store-list-gsheet",
+      "settings": {
+        "heading": "",
+        "description": "",
+        "api_key": "AIzaSyAlMLzJhbzGL9b_w3VOa43C3MIG3u3rYjw",
+        "sheet_id": "1C0RcxqT6jsdq5nXwLuVcszNJ5M8ONywCTStvGvI7klk",
+        "sheet_range": "Sheet1",
+        "bg_color": "#ffffff",
+        "text_color": "#263349",
+        "section_padding_top": 44,
+        "section_padding_bottom": 44,
+        "mobile_padding_top": 48,
+        "mobile_padding_bottom": 48
       }
     },
     "rich_text_6AX4GK": {
@@ -751,6 +768,7 @@
     "main",
     "rich_text_dpAQqM",
     "multicolumn_YaCqr6",
+    "store_list_gsheet_MWmi4K",
     "rich_text_6AX4GK"
   ]
 }

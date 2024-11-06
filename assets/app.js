@@ -1211,3 +1211,82 @@ document.addEventListener('DOMContentLoaded', () => {
     new FooterMenuToggle();
   }
 });
+
+class GoogleSheetStocklist extends HTMLElement {
+  constructor() {
+    super();
+    this.apiKey = this.dataset.apiKey;
+    this.sheetId = this.dataset.sheetId;
+    this.range = this.dataset.range || 'Sheet1';
+    this.url = `https://sheets.googleapis.com/v4/spreadsheets/${this.sheetId}/values/${this.range}?key=${this.apiKey}`;
+    this.allRows = [];
+  }
+  connectedCallback() {
+    this.innerHTML = `
+      <div id="sheetData" class="store-list-container"></div>
+      <div id="loading" class="loading">Loading...</div>
+    `;
+    this.fetchAndInitializeData();
+  }
+  async fetchAndInitializeData() {
+    try {
+      this.showLoading(true);
+      const response = await fetch(this.url);
+      const data = await response.json();
+      this.showLoading(false);
+      if (!data.values || data.values.length < 2) {
+        console.error('Error: No data found or only header row available.');
+        return;
+      }
+      this.allRows = data.values.slice(1);
+      this.renderCards(this.allRows);
+    } catch (error) {
+      this.showLoading(false);
+      console.error('Error fetching Google Sheets data:', error);
+    }
+  }
+  renderCards(rows) {
+    const sheetDataDiv = this.querySelector("#sheetData");
+    rows.forEach(row => {
+      const card = this.createCard(row);
+      sheetDataDiv.appendChild(card);
+    });
+  }
+  createCard(row) {
+    const [bpNo, customer, street, city, county, postcode, phoneNo, email, direction] = row;
+    const card = document.createElement("div");
+    card.className = "multicolumn__column";
+    const fields = [
+      { label: null, value: customer, isHeader: true },
+      { label: null, value: street },
+      { label: null, value: city },
+      { label: null, value: county },
+      { label: null, value: postcode },
+      { label: 'Phone:', value: phoneNo },
+      { label: 'Email:', value: email },
+      { label: 'Directions', value: direction, isLink: true }
+    ];
+    const cardContent = fields.map(field => {
+      if (field.value) {
+        if (field.isHeader) {
+          return `<h4>${field.value}</h4>`;
+        } else if (field.isLink) {
+          return `<a class="text-button" href="${field.value}"><span>${field.label}</span></a>`;
+        }
+        return `<p>${field.label ? `<strong>${field.label}</strong> ` : ''}${field.value}</p>`;
+      }
+      return '';
+    }).filter(content => content).join('');
+    card.innerHTML = cardContent;
+    return card;
+  }
+  showLoading(isLoading) {
+    const loadingDiv = this.querySelector("#loading");
+    if (isLoading) {
+      loadingDiv.classList.add("visible");
+    } else {
+      loadingDiv.classList.remove("visible");
+    }
+  }
+}
+customElements.define('google-sheet-stocklist', GoogleSheetStocklist);

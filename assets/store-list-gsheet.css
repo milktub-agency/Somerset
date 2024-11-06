@@ -1,0 +1,18 @@
+.store-list-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.store-list-container div{
+    padding: 0 14px;
+}
+.store-list h3.heading, .store-list p.desc {
+    text-align: center;
+}
+@media screen and (max-width: 750px) {
+    .store-list-container{
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .store-list-container div{
+        padding: 0 4px;
+    }
+}
