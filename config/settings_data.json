@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "heading_font": "hope_sans_n6",
@@ -35,11 +44,11 @@
     "color_footer_bg": "#263349",
     "section_spacing_desktop": 45,
     "button_border_radius": 3,
-    "social_facebook_link": "https:\/\/www.facebook.com\/SomersetDistributionUK",
-    "social_twitter_link": "https:\/\/twitter.com\/SomersetTC",
-    "social_instagram_link": "https:\/\/www.instagram.com\/thesomersettoiletrycompany\/",
-    "social_pinterest_link": "https:\/\/www.pinterest.co.uk\/somersettc\/_created\/",
-    "social_linkedin_link": "https:\/\/uk.linkedin.com\/company\/the-somerset-toiletry-company",
+    "social_facebook_link": "https://www.facebook.com/SomersetDistributionUK",
+    "social_twitter_link": "https://twitter.com/SomersetTC",
+    "social_instagram_link": "https://www.instagram.com/thesomersettoiletrycompany/",
+    "social_pinterest_link": "https://www.pinterest.co.uk/somersettc/_created/",
+    "social_linkedin_link": "https://uk.linkedin.com/company/the-somerset-toiletry-company",
     "social_share_clipboard": false,
     "product_content_alignment": "left",
     "product_aspect_ratio": "adapt",
@@ -51,7 +60,7 @@
     "badge_position": "top left",
     "color_badge_sale": "#263349",
     "cart_drawer_notes": false,
-    "favicon": "shopify:\/\/shop_images\/the-somerset-toiletry-co-favicon.png",
+    "favicon": "shopify://shop_images/the-somerset-toiletry-co-favicon.png",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
@@ -113,9 +122,9 @@
           "show_language_switcher": true,
           "show_currency_switcher": true,
           "mobile_secondary_menu": "",
-          "mobile_promo_heading": "Alexandre Vauthier A\/W 22 Haute Couture",
+          "mobile_promo_heading": "Alexandre Vauthier A/W 22 Haute Couture",
           "mobile_promo_link_label": "Shop",
-          "mobile_promo_link": "shopify:\/\/collections\/all"
+          "mobile_promo_link": "shopify://collections/all"
         }
       },
       "footer": {
@@ -138,7 +147,7 @@
             "settings": {
               "column_size": "large",
               "title": "",
-              "text": "<p>Add your store address here<\/p>",
+              "text": "<p>Add your store address here</p>",
               "text_size": "large",
               "button_text": "Add button link",
               "button_link": "",
@@ -174,7 +183,7 @@
             "settings": {
               "column_size": "medium",
               "title": "NEWSLETTER",
-              "text": "<p>Add a short description for this newsletter<\/p>"
+              "text": "<p>Add a short description for this newsletter</p>"
             }
           }
         },
@@ -195,18 +204,15 @@
         }
       }
     },
-    "content_for_index": [
-
-    ],
+    "content_for_index": [],
     "blocks": {
       "1232542678405107163": {
-        "type": "shopify:\/\/apps\/instafeed\/blocks\/head-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+        "type": "shopify://apps/instafeed/blocks/head-block/c447db20-095d-4a10-9725-b5977662c9d5",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "10830403595879607806": {
-        "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-core\/92a082e5-b297-4e88-b428-ac96cbc505f9",
+        "type": "shopify://apps/reviews-io/blocks/reviewsio-core/92a082e5-b297-4e88-b428-ac96cbc505f9",
         "disabled": false,
         "settings": {
           "url_key": "REVIEWS.io",
@@ -215,7 +221,7 @@
         }
       },
       "16274361319697914395": {
-        "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-floating\/92a082e5-b297-4e88-b428-ac96cbc505f9",
+        "type": "shopify://apps/reviews-io/blocks/reviewsio-floating/92a082e5-b297-4e88-b428-ac96cbc505f9",
         "disabled": false,
         "settings": {
           "widget_id": "",
@@ -227,13 +233,12 @@
         }
       },
       "8035815586522894503": {
-        "type": "shopify:\/\/apps\/salepify\/blocks\/free-gift.embed\/f616e94d-36ae-45cb-9d98-57804196c7a7",
+        "type": "shopify://apps/salepify/blocks/free-gift.embed/f616e94d-36ae-45cb-9d98-57804196c7a7",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "15683396631634586217": {
-        "type": "shopify:\/\/apps\/inbox\/blocks\/chat\/841fc607-4181-4ad1-842d-e24d7f8bad6b",
+        "type": "shopify://apps/inbox/blocks/chat/841fc607-4181-4ad1-842d-e24d7f8bad6b",
         "disabled": false,
         "settings": {
           "button_color": "#000000",
@@ -246,39 +251,36 @@
           "greeting_message": ""
         }
       },
+      "6913107989674730356": {
+        "type": "shopify://apps/reviews-io/blocks/reviewsio-sessions/92a082e5-b297-4e88-b428-ac96cbc505f9",
+        "disabled": true,
+        "settings": {}
+      },
+      "10384935893930344104": {
+        "type": "shopify://apps/seoant-redirects/blocks/brokenlink-404/cc7b1996-e567-42d0-8862-356092041863",
+        "disabled": false,
+        "settings": {}
+      },
+      "855628211100114053": {
+        "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
+        "disabled": false,
+        "settings": {}
+      },
       "15316669992541710076": {
-        "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-rating-snippet\/92a082e5-b297-4e88-b428-ac96cbc505f9",
+        "type": "shopify://apps/reviews-io/blocks/reviewsio-rating-snippet/92a082e5-b297-4e88-b428-ac96cbc505f9",
         "disabled": false,
         "settings": {
-          "star": "#000",
-          "text_color": "#333",
+          "star": "#000000",
+          "text_color": "#333333",
           "snippet_mode": "default",
           "text": "Reviews",
           "line_break": false,
-          "listen_for_changes": false,
+          "listen_for_changes": true,
           "rating_without_brackets": false,
           "format_review_count": false,
           "show_popup": true,
           "anchor_to_reviews_widget": false,
           "show_empty_stars": false
-        }
-      },
-      "6913107989674730356": {
-        "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-sessions\/92a082e5-b297-4e88-b428-ac96cbc505f9",
-        "disabled": true,
-        "settings": {
-        }
-      },
-      "10384935893930344104": {
-        "type": "shopify:\/\/apps\/seoant-redirects\/blocks\/brokenlink-404\/cc7b1996-e567-42d0-8862-356092041863",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "855628211100114053": {
-        "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
-        "disabled": false,
-        "settings": {
         }
       }
     }
@@ -353,9 +355,9 @@
             "menu": "main-menu",
             "transparent_header": true,
             "mobile_secondary_menu": "",
-            "mobile_promo_heading": "Alexandre Vauthier A\/W 22 Haute Couture",
+            "mobile_promo_heading": "Alexandre Vauthier A/W 22 Haute Couture",
             "mobile_promo_link_label": "Shop",
-            "mobile_promo_link": "shopify:\/\/collections\/all",
+            "mobile_promo_link": "shopify://collections/all",
             "show_language_switcher": true,
             "show_currency_switcher": true
           }
@@ -380,7 +382,7 @@
               "settings": {
                 "column_size": "large",
                 "title": "",
-                "text": "<p>Add your store address here<\/p>",
+                "text": "<p>Add your store address here</p>",
                 "text_size": "large",
                 "button_text": "Add button link",
                 "button_link": "",
@@ -416,7 +418,7 @@
               "settings": {
                 "column_size": "medium",
                 "title": "NEWSLETTER",
-                "text": "<p>Add a short description for this newsletter<\/p>"
+                "text": "<p>Add a short description for this newsletter</p>"
               }
             }
           },
@@ -437,9 +439,7 @@
           }
         }
       },
-      "content_for_index": [
-
-      ]
+      "content_for_index": []
     },
     "Reinvent": {
       "heading_font": "hope_sans_n6",
@@ -532,20 +532,20 @@
             "c947d47d-abab-4f58-b89e-58ad729f6986"
           ],
           "settings": {
-            "logo": "shopify:\/\/shop_images\/logo.png",
+            "logo": "shopify://shop_images/logo.png",
             "logo_height_range": 36,
             "logo_height_range_mobile": 24,
             "style": "style4",
             "header_shadow": "header--shadow-small",
             "menu": "main-menu",
             "transparent_header": true,
-            "logo_light": "shopify:\/\/shop_images\/logo-w.png",
+            "logo_light": "shopify://shop_images/logo-w.png",
             "show_language_switcher": false,
             "show_currency_switcher": true,
             "mobile_secondary_menu": "company",
-            "mobile_promo_heading": "Alexandre Vauthier A\/W 22 Haute Couture",
+            "mobile_promo_heading": "Alexandre Vauthier A/W 22 Haute Couture",
             "mobile_promo_link_label": "Shop",
-            "mobile_promo_link": "shopify:\/\/collections\/all"
+            "mobile_promo_link": "shopify://collections/all"
           }
         },
         "footer": {
@@ -556,7 +556,7 @@
               "settings": {
                 "column_size": "medium",
                 "title": "NEWSLETTER",
-                "text": "<p>Sign up for our newsletter and receive 10% off your first order!<\/p>"
+                "text": "<p>Sign up for our newsletter and receive 10% off your first order!</p>"
               }
             },
             "f9e6f4c5-6d79-4c47-9dd0-41a187f487ed": {
@@ -564,7 +564,7 @@
               "settings": {
                 "column_size": "small",
                 "title": "",
-                "text": "<p><\/p>",
+                "text": "<p></p>",
                 "text_size": "medium",
                 "button_text": "",
                 "button_link": "",
@@ -612,9 +612,7 @@
           }
         }
       },
-      "content_for_index": [
-
-      ]
+      "content_for_index": []
     },
     "Sunshine": {
       "heading_font": "neue_swift_n6",
@@ -682,10 +680,10 @@
               "type": "megamenu",
               "settings": {
                 "position": "2",
-                "promo_1_image": "shopify:\/\/shop_images\/promotion2.jpg",
+                "promo_1_image": "shopify://shop_images/promotion2.jpg",
                 "promo_1_heading": "Luxury Bras & Undies",
                 "promo_1_link_label": "Shop now",
-                "promo_1_link": "shopify:\/\/collections\/all",
+                "promo_1_link": "shopify://collections/all",
                 "promo_2_heading": "Promotion heading",
                 "promo_2_link_label": "Shop",
                 "promo_2_link": ""
@@ -696,7 +694,7 @@
             "c947d47d-abab-4f58-b89e-58ad729f6986"
           ],
           "settings": {
-            "logo": "shopify:\/\/shop_images\/logo-2x.png",
+            "logo": "shopify://shop_images/logo-2x.png",
             "logo_height_range": 34,
             "logo_height_range_mobile": 34,
             "style": "style1",
@@ -704,10 +702,10 @@
             "menu": "main-menu",
             "transparent_header": false,
             "mobile_secondary_menu": "company",
-            "mobile_promo_image": "shopify:\/\/shop_images\/promotion2.jpg",
+            "mobile_promo_image": "shopify://shop_images/promotion2.jpg",
             "mobile_promo_heading": "LUXURY BRAS & UNDIES",
             "mobile_promo_link_label": "Shop",
-            "mobile_promo_link": "shopify:\/\/collections\/all",
+            "mobile_promo_link": "shopify://collections/all",
             "show_language_switcher": true,
             "show_currency_switcher": true
           }
@@ -720,8 +718,8 @@
               "settings": {
                 "column_size": "large",
                 "title": "",
-                "image": "shopify:\/\/shop_images\/footer-logo.png",
-                "text": "<p>Beauty is perfect in its imperfections, so you just have to go with the imperfections. Money is the most corrosive aspect of life today because it means that all attention to detail is forgotten. <\/p>",
+                "image": "shopify://shop_images/footer-logo.png",
+                "text": "<p>Beauty is perfect in its imperfections, so you just have to go with the imperfections. Money is the most corrosive aspect of life today because it means that all attention to detail is forgotten. </p>",
                 "text_size": "small",
                 "button_text": "",
                 "button_link": "",
@@ -768,9 +766,7 @@
           }
         }
       },
-      "content_for_index": [
-
-      ]
+      "content_for_index": []
     },
     "Mono": {
       "heading_font": "basic_commercial_n7",
@@ -864,7 +860,7 @@
             "0b220934-05c8-49f3-81c9-17468e976ff1"
           ],
           "settings": {
-            "logo": "shopify:\/\/shop_images\/logo.png",
+            "logo": "shopify://shop_images/logo.png",
             "logo_height_range": 24,
             "logo_height_range_mobile": 24,
             "style": "style2",
@@ -872,10 +868,10 @@
             "menu": "main-menu",
             "transparent_header": false,
             "mobile_secondary_menu": "",
-            "mobile_promo_image": "shopify:\/\/shop_images\/img21.jpg",
+            "mobile_promo_image": "shopify://shop_images/img21.jpg",
             "mobile_promo_heading": "Luxury Wallets",
             "mobile_promo_link_label": "Shop",
-            "mobile_promo_link": "shopify:\/\/collections\/all",
+            "mobile_promo_link": "shopify://collections/all",
             "show_language_switcher": true,
             "show_currency_switcher": true
           }
@@ -888,11 +884,11 @@
               "settings": {
                 "column_size": "medium",
                 "title": "",
-                "image": "shopify:\/\/shop_images\/footer-logo.png",
-                "text": "<p>I am not interested in the past, except as the road to the future. I get ideas about what's essential when packing my suitcase.<\/p>",
+                "image": "shopify://shop_images/footer-logo.png",
+                "text": "<p>I am not interested in the past, except as the road to the future. I get ideas about what's essential when packing my suitcase.</p>",
                 "text_size": "small",
                 "button_text": "Our Story",
-                "button_link": "shopify:\/\/pages\/about",
+                "button_link": "shopify://pages/about",
                 "show_social_links": false
               }
             },
@@ -913,7 +909,7 @@
               "settings": {
                 "column_size": "large",
                 "title": "GET IN TOUCH",
-                "text": "<p>8212 E. Glen Creek Street Orchard Park, NY 14127, <br\/>United States of America +1 310 499 7700<\/p>",
+                "text": "<p>8212 E. Glen Creek Street Orchard Park, NY 14127, <br/>United States of America +1 310 499 7700</p>",
                 "text_size": "large",
                 "button_text": "",
                 "button_link": "",
@@ -979,9 +975,7 @@
           }
         }
       },
-      "content_for_index": [
-
-      ]
+      "content_for_index": []
     },
     "Glamour": {
       "heading_font": "chong_modern_n4",
@@ -1074,9 +1068,9 @@
             "show_language_switcher": true,
             "show_currency_switcher": true,
             "mobile_secondary_menu": "",
-            "mobile_promo_heading": "Alexandre Vauthier A\/W 22 Haute Couture",
+            "mobile_promo_heading": "Alexandre Vauthier A/W 22 Haute Couture",
             "mobile_promo_link_label": "Shop",
-            "mobile_promo_link": "shopify:\/\/collections\/all"
+            "mobile_promo_link": "shopify://collections/all"
           }
         },
         "footer": {
@@ -1099,7 +1093,7 @@
               "settings": {
                 "column_size": "large",
                 "title": "",
-                "text": "<p>Add your store address here<\/p>",
+                "text": "<p>Add your store address here</p>",
                 "text_size": "large",
                 "button_text": "Add button link",
                 "button_link": "",
@@ -1135,7 +1129,7 @@
               "settings": {
                 "column_size": "medium",
                 "title": "NEWSLETTER",
-                "text": "<p>Add a short description for this newsletter<\/p>"
+                "text": "<p>Add a short description for this newsletter</p>"
               }
             }
           },
@@ -1156,9 +1150,7 @@
           }
         }
       },
-      "content_for_index": [
-
-      ]
+      "content_for_index": []
     }
   }
 }
