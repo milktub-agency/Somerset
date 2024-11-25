@@ -275,12 +275,12 @@
           "snippet_mode": "default",
           "text": "Reviews",
           "line_break": false,
-          "listen_for_changes": true,
+          "listen_for_changes": false,
           "rating_without_brackets": false,
           "format_review_count": false,
           "show_popup": true,
           "anchor_to_reviews_widget": false,
-          "show_empty_stars": true
+          "show_empty_stars": false
         }
       }
     }
